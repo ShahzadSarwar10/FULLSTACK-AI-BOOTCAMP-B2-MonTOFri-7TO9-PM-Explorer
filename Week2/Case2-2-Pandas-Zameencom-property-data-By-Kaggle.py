@@ -4,7 +4,7 @@ import pandas as pd
 #  Read csv file to DataFrame
 #  Reference: https://pandas.pydata.org/docs/dev/reference/api/pandas.read_csv.html
 #  Note below, date formatting - In Pandas, DateTime is a data type that represents a single point in time. It is especially useful when dealing with time-series data like stock prices, weather records, economic indicators etc.
-df = pd.read_csv('Week3/zameencom-property-data-By-Kaggle-short.csv',delimiter=";",parse_dates=[14], date_format={'date_added': '%d-%m-%Y'})
+df = pd.read_csv('Week2/zameencom-property-data-By-Kaggle-short.csv',delimiter=";",parse_dates=[14], date_format={'date_added': '%d-%m-%Y'})
 
 print(df)
 
@@ -142,7 +142,7 @@ print("# Case 2 : using .loc with index_col - starts here")
 # Case 2 : using .loc with index_col - starts here
 # Second cycle - with index_col as property_id
 # Why Second cycle - Note Index - , index_col='property_id'
-df_index_col = pd.read_csv('Week3/zameencom-property-data-By-Kaggle-short.csv',delimiter=";",parse_dates=[14], date_format={'date_added': '%d-%m-%Y'} , index_col='property_id')
+df_index_col = pd.read_csv('Week2/zameencom-property-data-By-Kaggle-short.csv',delimiter=";",parse_dates=[14], date_format={'date_added': '%d-%m-%Y'} , index_col='property_id')
 
 print(df_index_col)
 print(df_index_col.dtypes)

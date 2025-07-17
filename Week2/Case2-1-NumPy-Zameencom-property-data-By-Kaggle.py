@@ -1,7 +1,7 @@
 #zameencom-property-data-By-Kaggle.csv
 import numpy as np
 
-ids, price , long , lat = np.genfromtxt('Week3/zameencom-property-data-By-Kaggle-short.csv', delimiter=';', usecols=(0,4,8,9), unpack=True, dtype=None,skip_header=1)
+ids, price , long , lat = np.genfromtxt('Week2/zameencom-property-data-By-Kaggle-short.csv', delimiter=';', usecols=(0,4,8,9), unpack=True, dtype=None,skip_header=1)
 
 print(ids)
 print(price)
