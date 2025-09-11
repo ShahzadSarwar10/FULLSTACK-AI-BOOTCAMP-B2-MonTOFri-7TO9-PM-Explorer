@@ -1,0 +1,399 @@
+Course: 
+FULLSTACK WITH AI BOOTCAMP B 2 
+(Mon To Fri)	
+Quiz [ Counts for 30% of Full 100 Marks Course Assessment] 
+
+60 Questions
+90 min Time Duration
+
+Full Name: 
+NIC No:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Section A: Python Data Structures (List, Tuple, Set, Dictionary) (15 Qs)
+Q1. Which of the following is mutable in Python?
+a) List
+b) Tuple
+c) String
+d) Frozenset
+
+Q2. What is the output of len([1, 2, [3, 4]])?
+a) 2
+b) 3
+c) 4
+d) Error
+
+Q3. Tuples are:
+a) Mutable
+b) Immutable
+c) Both
+d) None
+
+Q4. Which data structure doesn’t allow duplicates?
+a) List
+b) Tuple
+c) Set
+d) Dictionary
+
+Q5. What is the result of set([1,2,2,3])?
+a) {1,2,2,3}
+b) {1,2,3}
+c) [1,2,3]
+d) Error
+
+Q6. Which key type is invalid in a Python dictionary?
+a) Integer
+b) Tuple
+c) List
+d) String
+
+Q7. What will dict.fromkeys([1,2,3], 0) return?
+a) {1:0, 2:0, 3:0}
+b) {1:[0], 2:[0], 3:[0]}
+c) {1:None, 2:None, 3:None}
+d) Error
+
+Q8. Which method adds an element at the end of a list?
+a) add()
+b) append()
+c) insert()
+d) extend()
+
+Q9. What is the output of len(set("banana"))?
+a) 6
+b) 5
+c) 3
+d) 4
+
+Q10. Dictionary keys must be:
+a) Immutable
+b) Mutable
+c) Duplicates allowed
+d) None
+
+Q11. Which operator checks membership in a list?
+a) in
+b) ==
+c) contains
+d) has
+
+Q12. Output of list("abc") is:
+a) ['abc']
+b) ['a','b','c']
+c) ('a','b','c')
+d) {'a','b','c'}
+
+Q13. Which method removes a key from dictionary safely?
+a) del
+b) pop()
+c) remove()
+d) discard()
+
+Q14. A set is implemented using:
+a) Array
+b) Linked list
+c) Hash table
+d) Stack
+
+Q15. Which of the following is valid?
+a) {1, 2, 3}
+b) {[1,2], 3}
+c) {{1,2},3}
+d) {dict(), 2}
+
+
+Section B: NumPy (10 Qs)
+Q16. What is the default data type of np.array([1,2,3])?
+a) int32 / int64 (depending on system)
+b) float64
+c) object
+d) str
+
+Q17. Which function creates an array with evenly spaced values?
+a) linspace()
+b) arange()
+c) both a and b
+d) range()
+
+Q18. Which NumPy method returns shape of array?
+a) size
+b) shape
+c) ndim
+d) reshape
+
+Q19. What is the output of np.zeros((2,2))?
+a) [[1,1],[1,1]]
+b) [[0,0],[0,0]]
+c) [0,0,0,0]
+d) Error
+
+Q20. Which method concatenates arrays vertically?
+a) hstack()
+b) vstack()
+c) concatenate()
+d) append()
+
+Q21. What is returned by np.eye(3)?
+a) 3x3 identity matrix
+b) 3x3 zero matrix
+c) Error
+d) Ones matrix
+
+Q22. Which NumPy attribute gives number of dimensions?
+a) ndim
+b) shape
+c) size
+d) axes
+
+Q23. Output of np.arange(2,10,2)?
+a) [2,4,6,8,10]
+b) [2,4,6,8]
+c) [2,3,4,5,6,7,8,9]
+d) Error
+
+Q24. Which is faster, NumPy arrays or Python lists (for numerical ops)?
+a) Lists
+b) NumPy arrays
+c) Same
+d) Depends on interpreter
+
+Q25. np.dot() is used for:
+a) Element-wise multiplication
+b) Matrix multiplication
+c) Transpose
+d) Inverse
+
+
+Section C: Pandas (10 Qs)
+Q26. Which function creates a DataFrame?
+a) pd.DataFrame()
+b) pd.Series()
+c) pd.array()
+d) pd.frame()
+
+Q27. Which is not a valid Pandas data structure?
+a) Series
+b) DataFrame
+c) Panel (removed in recent versions)
+d) ArrayList
+
+Q28. What does df.head(3) return?
+a) Last 3 rows
+b) First 3 rows
+c) Random 3 rows
+d) Error
+
+Q29. df.info() gives:
+a) Shape only
+b) Data types + memory usage
+c) Summary statistics
+d) Index only
+
+Q30. df.describe() excludes which by default?
+a) Numeric columns
+b) Object (string) columns
+c) Boolean columns
+d) All columns
+
+Q31. Which merges DataFrames horizontally?
+a) merge()
+b) concat(axis=1)
+c) join()
+d) All of the above
+
+Q32. Missing values in Pandas are represented by:
+a) Null
+b) NaN
+c) None
+d) 0
+
+Q33. Which method removes missing values?
+a) dropna()
+b) fillna()
+c) replace()
+d) remove()
+
+Q34. Which gives correlation between columns?
+a) df.corr()
+b) df.cov()
+c) df.describe()
+d) df.groupby()
+
+Q35. To reset index:
+a) df.reset()
+b) df.reset_index()
+c) df.reindex()
+d) df.index.reset()
+
+
+Section D: Seaborn (5 Qs)
+Q36. Which library does Seaborn build on?
+a) NumPy
+b) Matplotlib
+c) Pandas
+d) SciPy
+
+Q37. Which function is used for scatter plot in Seaborn?
+a) sns.scatter()
+b) sns.scatterplot()
+c) sns.plot()
+d) sns.lineplot()
+
+
+Q38. Heatmap in Seaborn is created using:
+a) sns.map()
+b) sns.matrix()
+c) sns.heatmap()
+d) sns.colorplot()
+
+Q39. Which seaborn function is used for categorical bar plots?
+a) sns.barplot()
+b) sns.catplot()
+c) sns.countplot()
+d) All of these
+
+Q40. Default theme of Seaborn plots?
+a) darkgrid
+b) whitegrid
+c) ticks
+d) poster
+
+
+Section E: scikit-learn (sklearn) (7 Qs)
+Q41. Which module is used for splitting dataset?
+a) sklearn.model_selection
+b) sklearn.preprocessing
+c) sklearn.metrics
+d) sklearn.datasets
+
+Q42. What does StandardScaler() do?
+a) Normalizes data between 0–1
+b) Standardizes data (mean=0, std=1)
+c) Removes missing values
+d) Encodes categories
+
+Q43. Which is not a supervised algorithm in scikit-learn?
+a) LinearRegression
+b) LogisticRegression
+c) KMeans
+d) DecisionTreeClassifier
+
+Q44. train_test_split() default test size is:
+a) 0.1
+b) 0.2
+c) 0.25
+d) 0.3
+
+Q45. Which metric is used for classification accuracy?
+a) mean_squared_error
+b) accuracy_score
+c) r2_score
+d) explained_variance
+
+Q46. Dimensionality reduction algorithm in sklearn:
+a) PCA
+b) LDA
+c) t-SNE
+d) All of these
+
+Q47. fit_transform() is used in:
+a) Training + Transformation
+b) Prediction
+c) Testing
+d) Evaluation
+
+
+Section F: TensorFlow (7 Qs)
+Q48. TensorFlow is primarily used for:
+a) Web development
+b) Deep learning / ML
+c) Game development
+d) Blockchain
+
+Q49. A Tensor in TensorFlow is:
+a) 1D array only
+b) Multidimensional array
+c) Graph node
+d) Scalar only
+
+Q50. Which API is recommended in TensorFlow 2.x?
+a) tf.Session()
+b) tf.placeholder()
+c) tf.keras
+d) tf.contrib
+
+Q51. Eager execution in TensorFlow means:
+a) Graphs are compiled first
+b) Operations executed immediately
+c) Deferred execution
+d) Lazy evaluation
+
+Q52. TensorFlow variables are used for:
+a) Constants only
+b) Trainable parameters
+c) Non-trainable data
+d) Labels
+
+Q53. Which device TensorFlow can use?
+a) CPU
+b) GPU
+c) TPU
+d) All of these
+
+Q54. Default extension for TensorFlow SavedModel?
+a) .h5
+b) .pb
+c) .model
+d) .ckpt
+
+
+Section G: Keras (6 Qs)
+Q55. Keras is:
+a) Low-level ML library
+b) High-level API for building neural nets
+c) Database framework
+d) Visualization tool
+
+Q56. Which backend can Keras use?
+a) TensorFlow
+b) Theano
+c) CNTK
+d) All of these
+
+Q57. In Keras, Sequential() is used for:
+a) Layer-wise model building
+b) Non-linear models only
+c) Reinforcement learning
+d) Unsupervised models
+
+Q58. Keras Dense() layer means:
+a) Convolution layer
+b) Fully connected layer
+c) Pooling layer
+d) Dropout layer
+
+Q59. To prevent overfitting, Keras provides:
+a) Dropout layer
+b) Regularizers
+c) EarlyStopping
+d) All of these
+
+Q60. Which optimizer is default in Keras?
+a) SGD
+b) Adam
+c) RMSprop
+d) Adagrad
+
+
