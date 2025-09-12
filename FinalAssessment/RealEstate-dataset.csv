@@ -1,0 +1,1001 @@
+property_status,property_category,property_subcategory,city,town,neighborhood,district,floor_count,floor,building_age,heating_type,gross_area_m2,net_area_m2,room_count,bathroom_count,price
+satilik,konut,daire,konya,karatay,hasandedemescit,mevlana,5,2,0,yerden isitma,150,135,3+1,2,685000
+satilik,konut,daire,konya,meram,aymanas,tascami,7,5,0,yerden isitma,168,150,3+1,1,855000
+satilik,konut,daire,konya,meram,aymanas,tascami,8,3,1,kombi dogalgaz,150,135,3+1,1,860000
+satilik,konut,daire,konya,karatay,sultan mesud,sems,4,3,21 +,soba,120,100,3+1,1,875000
+satilik,konut,daire,konya,karatay,sultan mesud,sems,4,1,21 +,soba,110,90,2+1,1,900000
+satilik,konut,daire,konya,karatay,kececiler,mevlana,2,1,21 +,soba,135,110,3+1,1,950000
+satilik,konut,daire,konya,meram,sahibiata,aziziye,3,0,21 +,kombi dogalgaz,165,127,3+1,1,950000
+satilik,konut,daire,konya,karatay,semsitebrizi,sems,3,2,21 +,kombi dogalgaz,130,105,2+1,1,975000
+satilik,konut,daire,konya,meram,sahibiata,aziziye,2,2,21 +,kombi dogalgaz,145,125,3+1,1,1100000
+satilik,konut,daire,konya,karatay,semsitebrizi,sems,3,3,21 +,kombi dogalgaz,120,100,3+1,1,1170000
+satilik,konut,daire,konya,karatay,nakipoglu,mevlana,4,4,21 +,kombi dogalgaz,145,125,3+1,1,1180000
+satilik,konut,daire,konya,karatay,semsitebrizi,sems,3,3,21 +,soba,140,120,3+1,1,1200000
+satilik,konut,daire,konya,karatay,semsitebrizi,sems,4,4,21 +,kombi dogalgaz,120,110,3+1,1,1200000
+satilik,konut,daire,konya,karatay,semsitebrizi,sems,4,0,21 +,kombi dogalgaz,145,110,2+1,1,1200000
+satilik,konut,daire,konya,selcuklu,malazgirt,cumhuriyet,3,0,16 - 20,kombi dogalgaz,90,80,1+1,1,1250000
+satilik,konut,daire,konya,karatay,semsitebrizi,sems,4,4,21 +,soba,115,100,2+1,1,1250000
+satilik,konut,daire,konya,selcuklu,ihsaniye,zafer,5,5,21 +,kombi dogalgaz,165,130,3+1,1,1250000
+satilik,konut,daire,konya,selcuklu,seyh samil,cumhuriyet,5,3,21 +,kombi dogalgaz,90,80,2+1,1,1250000
+satilik,konut,daire,konya,meram,caybasi,aziziye,3,0,21 +,soba,110,90,2+1,1,1270000
+satilik,konut,daire,konya,selcuklu,binkonutlar,cumhuriyet,5,4,21 +,kombi dogalgaz,120,100,2+1,1,1275000
+satilik,konut,daire,konya,karatay,nakipoglu,mevlana,3,3,21 +,kombi dogalgaz,150,130,3+1,1,1278000
+satilik,konut,daire,konya,karatay,nakipoglu,mevlana,4,0,21 +,kombi dogalgaz,135,115,3+1,1,1280000
+satilik,konut,daire,konya,meram,konevi,zafer,5,0,21 +,kombi dogalgaz,110,90,2+1,1,1300000
+satilik,konut,daire,konya,karatay,kerim dede,selimiye,6,0,5 - 10,merkezi dogalgaz,80,65,2+1,1,1325000
+satilik,konut,daire,konya,karatay,nakipoglu,mevlana,4,2,21 +,kombi dogalgaz,165,130,3+1,1,1335000
+satilik,konut,daire,konya,meram,sahibiata,aziziye,3,2,21 +,kombi dogalgaz,110,100,2+1,1,1350000
+satilik,konut,daire,konya,meram,konevi,zafer,4,4,21 +,kombi dogalgaz,120,110,3+1,1,1350000
+satilik,konut,daire,konya,selcuklu,ihsaniye,zafer,5,5,21 +,kombi dogalgaz,155,135,3+1,1,1350000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,2,5 - 10,kombi dogalgaz,90,70,1+1,1,1350000
+satilik,konut,daire,konya,meram,sahibiata,aziziye,6,5,21 +,merkezi dogalgaz,125,100,2+1,1,1375000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,6,3,5 - 10,merkezi dogalgaz,90,70,1+1,1,1375000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,5,3,11 - 15,kombi dogalgaz,85,65,1+1,1,1400000
+satilik,konut,daire,konya,meram,aydogdu,aziziye,3,1,21 +,kombi dogalgaz,120,90,2+1,1,1400000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,7,2,5 - 10,merkezi pay olcer,75,65,1+1,1,1400000
+satilik,konut,daire,konya,karatay,akifpasa,sems,4,4,21 +,kombi dogalgaz,150,125,3+1,1,1425000
+satilik,konut,daire,konya,karatay,celebi,mevlana,5,2,0,merkezi pay olcer,165,135,3+1,1,1430000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,2,21 +,kombi dogalgaz,150,120,3+1,1,1450000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,3,2,21 +,kombi dogalgaz,120,117,3+1,1,1450000
+satilik,konut,daire,konya,selcuklu,dumlupinar,cumhuriyet,3,1,21 +,kombi dogalgaz,110,105,3+1,1,1450000
+satilik,konut,daire,konya,selcuklu,akincilar,aydinlik,3,0,21 +,kombi dogalgaz,135,95,2+1,1,1450000
+satilik,konut,daire,konya,meram,konevi,zafer,4,4,21 +,kombi dogalgaz,130,120,3+1,1,1450000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,4,2,21 +,kombi dogalgaz,105,95,2+1,1,1450000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,4,3,5 - 10,kombi dogalgaz,75,60,1+1,1,1460000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,4,2,5 - 10,merkezi dogalgaz,85,67,1+1,1,1475000
+satilik,konut,daire,konya,selcuklu,sakarya,aydinlik,3,1,21 +,kombi dogalgaz,125,110,3+1,1,1485000
+satilik,konut,daire,konya,selcuklu,malazgirt,cumhuriyet,4,0,21 +,kombi dogalgaz,135,120,3+1,1,1490000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,4,4,11 - 15,kombi dogalgaz,90,75,1+1,1,1500000
+satilik,konut,daire,konya,selcuklu,binkonutlar,cumhuriyet,4,2,16 - 20,kombi dogalgaz,120,90,2+1,1,1500000
+satilik,konut,daire,konya,selcuklu,cumhuriyet,cumhuriyet,3,1,21 +,kombi dogalgaz,130,110,2+1,1,1500000
+satilik,konut,daire,konya,karatay,buyuk sinan,sems,4,4,21 +,merkezi dogalgaz,145,125,3+1,1,1500000
+satilik,konut,daire,konya,selcuklu,binkonutlar,cumhuriyet,5,4,21 +,kombi dogalgaz,100,90,2+1,1,1500000
+satilik,konut,daire,konya,meram,sahibiata,aziziye,3,3,21 +,kombi dogalgaz,110,100,2+1,1,1510000
+satilik,konut,daire,konya,selcuklu,isiklar,fatih,5,3,21 +,kombi dogalgaz,110,100,3+1,1,1535000
+satilik,konut,daire,konya,selcuklu,aydinlikevler,aydinlik,5,0,21 +,soba,110,90,3+1,1,1540000
+satilik,konut,daire,konya,selcuklu,kilincarslan,hocacihan,4,0,16 - 20,kombi dogalgaz,120,95,2+1,1,1550000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,2,2,5 - 10,kombi dogalgaz,95,80,1+1,1,1550000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,4,2,21 +,kombi dogalgaz,120,105,2+1,1,1575000
+satilik,konut,daire,konya,karatay,buyuk sinan,sems,5,5,21 +,kombi dogalgaz,155,140,3+1,1,1575000
+satilik,konut,daire,konya,selcuklu,malazgirt,cumhuriyet,5,5,21 +,kombi dogalgaz,150,110,3+1,1,1575000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,3,5 - 10,kombi dogalgaz,90,80,1+1,1,1575000
+satilik,konut,daire,konya,selcuklu,aydinlikevler,aydinlik,3,3,16 - 20,kombi dogalgaz,150,125,3+1,1,1590000
+satilik,konut,daire,konya,selcuklu,mehmet akif,aydinlik,3,0,21 +,kombi dogalgaz,160,130,3+1,1,1595000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,3,0,21 +,kombi dogalgaz,140,105,3+1,1,1595000
+satilik,konut,daire,konya,karatay,celebi,mevlana,5,2,0,merkezi pay olcer,200,167,4+1,2,1600000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,4,4,11 - 15,kombi dogalgaz,75,65,2+1,1,1600000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,4,4,11 - 15,kombi dogalgaz,75,65,2+1,1,1600000
+satilik,konut,daire,konya,selcuklu,mehmet akif,aydinlik,5,0,11 - 15,kombi dogalgaz,130,110,3+1,1,1600000
+satilik,konut,daire,konya,meram,sahibiata,aziziye,3,3,21 +,kombi dogalgaz,130,110,2+1,1,1600000
+satilik,konut,daire,konya,selcuklu,isiklar,fatih,5,4,21 +,kombi dogalgaz,140,125,3+1,1,1600000
+satilik,konut,daire,konya,meram,meliksah,mimar-sinan,3,3,4,kombi dogalgaz,100,90,1+1,1,1600000
+satilik,konut,daire,konya,selcuklu,fatih,fatih,5,5,21 +,kombi dogalgaz,145,120,3+1,1,1610000
+satilik,konut,daire,konya,karatay,cimenlik,selimiye,3,0,21 +,soba,125,100,2+1,1,1620000
+satilik,konut,daire,konya,selcuklu,mehmet akif,aydinlik,4,4,21 +,kombi dogalgaz,110,100,2+1,1,1625000
+satilik,konut,daire,konya,selcuklu,fatih,fatih,4,3,21 +,kombi dogalgaz,160,130,3+1,1,1625000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,3,3,11 - 15,soba,160,130,3+1,1,1640000
+satilik,konut,daire,konya,selcuklu,akademi,bosna,4,0,0,merkezi pay olcer,90,75,2+1,1,1650000
+satilik,konut,daire,konya,selcuklu,akademi,bosna,4,2,1,merkezi dogalgaz,90,70,2+1,1,1650000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,11,1,16 - 20,kombi dogalgaz,100,85,2+1,1,1650000
+satilik,konut,daire,konya,selcuklu,cumhuriyet,cumhuriyet,2,2,21 +,kombi dogalgaz,130,110,2+1,1,1650000
+satilik,konut,daire,konya,selcuklu,cumhuriyet,cumhuriyet,2,2,21 +,kombi dogalgaz,140,110,3+1,1,1650000
+satilik,konut,daire,konya,selcuklu,isiklar,fatih,4,4,21 +,soba,120,100,3+1,1,1650000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,4,0,21 +,soba,125,110,2+1,1,1650000
+satilik,konut,daire,konya,selcuklu,fatih,fatih,5,0,21 +,kombi dogalgaz,155,125,2+1,1,1650000
+satilik,konut,daire,konya,selcuklu,bedir,aydinlik,7,7,21 +,kombi dogalgaz,165,125,3+1,1,1650000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,3,3,4,kombi dogalgaz,75,70,1+1,1,1650000
+satilik,konut,daire,konya,meram,koycegiz,dere,4,0,5 - 10,kombi dogalgaz,105,87,1+1,1,1650000
+satilik,konut,daire,konya,meram,koycegiz,dere,4,0,5 - 10,kombi dogalgaz,105,87,1+1,1,1650000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,10,6,16 - 20,merkezi dogalgaz,120,105,3+1,1,1660000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,10,2,16 - 20,kombi dogalgaz,130,110,3+1,2,1660000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,10,2,16 - 20,merkezi dogalgaz,120,105,3+1,2,1660000
+satilik,konut,daire,konya,selcuklu,mehmet akif,aydinlik,4,2,21 +,kombi dogalgaz,160,120,3+1,1,1660000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,0,11 - 15,merkezi pay olcer,75,60,1+1,1,1665000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,4,0,5 - 10,kombi dogalgaz,110,90,2+1,1,1670000
+satilik,konut,daire,konya,karatay,istiklal,selimiye,3,3,1,yerden isitma,165,135,3+1,2,1680000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,5,4,11 - 15,kombi dogalgaz,110,90,3+1,1,1685000
+satilik,konut,daire,konya,karatay,selimsultan,selimiye,4,0,0,yerden isitma,115,90,2+1,1,1690000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,4,3,5 - 10,yerden isitma,100,95,2+1,1,1690000
+satilik,konut,daire,konya,selcuklu,binkonutlar,cumhuriyet,8,2,21 +,merkezi pay olcer,140,100,2+1,1,1695000
+satilik,konut,daire,konya,selcuklu,ardicli,bosna,4,0,0,merkezi pay olcer,110,90,2+1,1,1700000
+satilik,konut,daire,konya,karatay,nakipoglu,mevlana,3,3,11 - 15,kombi dogalgaz,100,85,2+1,2,1700000
+satilik,konut,daire,konya,selcuklu,isiklar,fatih,4,3,16 - 20,kombi dogalgaz,160,145,3+1,1,1700000
+satilik,konut,daire,konya,meram,meliksah,mimar-sinan,2,0,21 +,kombi dogalgaz,120,100,2+1,1,1700000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,3,0,21 +,kombi dogalgaz,145,115,3+1,1,1700000
+satilik,konut,daire,konya,selcuklu,hacikaymak,hocacihan,4,4,21 +,soba,120,95,2+1,1,1700000
+satilik,konut,daire,konya,selcuklu,feritpasa,nalcaci,4,4,21 +,kombi dogalgaz,150,130,4+1,1,1700000
+satilik,konut,daire,konya,selcuklu,fatih,fatih,4,3,21 +,kombi dogalgaz,160,140,3+1,1,1700000
+satilik,konut,daire,konya,selcuklu,horozluhan,nalcaci,4,1,21 +,kombi dogalgaz,140,120,3+1,1,1700000
+satilik,konut,daire,konya,selcuklu,binkonutlar,cumhuriyet,5,5,21 +,kombi dogalgaz,130,90,3+1,1,1700000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,4,2,5 - 10,yerden isitma,105,95,2+1,1,1700000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,9,2,5 - 10,kombi dogalgaz,80,70,1+1,1,1700000
+satilik,konut,daire,konya,selcuklu,dumlupinar,cumhuriyet,3,2,21 +,kombi dogalgaz,140,115,3+1,1,1715000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,3,2,16 - 20,kombi dogalgaz,130,110,3+1,1,1720000
+satilik,konut,daire,konya,meram,alavardi,mimar-sinan,4,4,21 +,kombi dogalgaz,125,110,2+1,1,1725000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,9,9,5 - 10,kombi dogalgaz,125,95,2+1,1,1725000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,2,21 +,kombi dogalgaz,130,105,3+1,1,1730000
+satilik,konut,daire,konya,selcuklu,fatih,fatih,7,7,21 +,kombi dogalgaz,165,125,3+1,1,1730000
+satilik,konut,daire,konya,selcuklu,fatih,fatih,7,7,21 +,kombi dogalgaz,165,125,3+1,1,1730000
+satilik,konut,daire,konya,meram,pirebi,aziziye,4,0,5 - 10,kombi dogalgaz,105,88,2+1,1,1730000
+satilik,konut,daire,konya,selcuklu,ihsaniye,zafer,6,0,21 +,kombi dogalgaz,85,70,2+1,1,1749999
+satilik,konut,daire,konya,karatay,catalhuyuk,selimiye,2,1,0,yerden isitma,95,80,2+1,2,1750000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,12,4,0,merkezi pay olcer,220,200,4+1,2,1750000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,11,11,11 - 15,kombi dogalgaz,115,88,2+1,1,1750000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,11,11,11 - 15,kombi dogalgaz,115,88,2+1,1,1750000
+satilik,konut,daire,konya,karatay,kalenderhane,sems,3,2,16 - 20,kombi dogalgaz,140,130,3+1,1,1750000
+satilik,konut,daire,konya,karatay,akifpasa,sems,4,4,16 - 20,kombi dogalgaz,160,130,3+1,1,1750000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,4,4,16 - 20,kombi dogalgaz,140,135,3+1,1,1750000
+satilik,konut,daire,konya,selcuklu,ihsaniye,zafer,4,2,16 - 20,kombi dogalgaz,180,140,4+1,1,1750000
+satilik,konut,daire,konya,selcuklu,akincilar,aydinlik,4,0,16 - 20,kombi dogalgaz,130,110,2+1,1,1750000
+satilik,konut,daire,konya,meram,konevi,zafer,5,0,16 - 20,kombi dogalgaz,115,105,2+1,1,1750000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,10,6,16 - 20,kombi dogalgaz,120,100,2+1,1,1750000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,10,2,16 - 20,kombi dogalgaz,120,100,2+1,1,1750000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,3,3,21 +,kombi dogalgaz,120,110,3+1,1,1750000
+satilik,konut,daire,konya,selcuklu,cumhuriyet,cumhuriyet,3,2,21 +,kombi dogalgaz,135,110,2+1,1,1750000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,3,2,21 +,kombi dogalgaz,125,115,3+1,1,1750000
+satilik,konut,daire,konya,selcuklu,isiklar,fatih,3,1,21 +,kombi dogalgaz,150,135,2+1,1,1750000
+satilik,konut,daire,konya,selcuklu,dumlupinar,cumhuriyet,3,0,21 +,kombi dogalgaz,150,135,3+1,1,1750000
+satilik,konut,daire,konya,selcuklu,bedir,aydinlik,5,4,21 +,kombi dogalgaz,150,120,3+1,1,1750000
+satilik,konut,daire,konya,selcuklu,ihsaniye,zafer,5,0,21 +,kombi dogalgaz,95,80,2+1,1,1750000
+satilik,konut,daire,konya,karatay,kececiler,mevlana,6,2,21 +,kombi dogalgaz,165,120,2+1,1,1770000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,3,2,16 - 20,kombi dogalgaz,130,110,3+1,2,1775000
+satilik,konut,daire,konya,selcuklu,isiklar,fatih,5,3,21 +,kombi dogalgaz,150,125,3+1,1,1775000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,3,5 - 10,kombi dogalgaz,100,85,2+1,1,1775000
+satilik,konut,daire,konya,karatay,sariyakup,selimiye,4,4,16 - 20,kombi dogalgaz,170,130,3+1,1,1780000
+satilik,konut,daire,konya,selcuklu,isiklar,fatih,4,2,21 +,kombi dogalgaz,170,145,3+1,1,1780000
+satilik,konut,daire,konya,selcuklu,isiklar,fatih,5,2,21 +,kombi dogalgaz,135,110,3+1,1,1780000
+satilik,konut,daire,konya,selcuklu,dumlupinar,cumhuriyet,3,0,21 +,kombi dogalgaz,125,110,3+1,1,1785000
+satilik,konut,daire,konya,karatay,hasandedemescit,mevlana,6,0,3,yerden isitma,120,106,3+1,1,1795000
+satilik,konut,daire,konya,karatay,catalhuyuk,selimiye,3,3,0,yerden isitma,100,85,2+1,1,1800000
+satilik,konut,daire,konya,karatay,karaaslanuzumcu,selimiye,4,0,0,kombi dogalgaz,100,80,2+1,1,1800000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,9,0,11 - 15,kombi dogalgaz,100,90,2+1,1,1800000
+satilik,konut,daire,konya,selcuklu,mehmet akif,aydinlik,3,3,16 - 20,kombi dogalgaz,135,120,3+1,1,1800000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,3,0,16 - 20,kombi dogalgaz,120,105,3+1,1,1800000
+satilik,konut,daire,konya,selcuklu,seyh samil,cumhuriyet,3,0,16 - 20,kombi dogalgaz,155,135,3+1,1,1800000
+satilik,konut,daire,konya,selcuklu,malazgirt,cumhuriyet,3,2,21 +,kombi dogalgaz,110,100,2+1,1,1800000
+satilik,konut,daire,konya,selcuklu,hocacihan,hocacihan,4,4,21 +,kombi dogalgaz,140,120,2+1,1,1800000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,10,6,5 - 10,kombi dogalgaz,140,120,3+1,1,1800000
+satilik,konut,daire,konya,meram,bahcesehir,tascami,2,0,0,kombi dogalgaz,110,80,2+1,1,1825000
+satilik,konut,daire,konya,selcuklu,cumhuriyet,cumhuriyet,3,0,21 +,kombi dogalgaz,120,110,3+1,1,1825000
+satilik,konut,daire,konya,karatay,catalhuyuk,selimiye,2,0,0,yerden isitma,110,90,2+1,1,1850000
+satilik,konut,daire,konya,karatay,saracoglu,selimiye,4,2,0,yerden isitma,110,90,2+1,1,1850000
+satilik,konut,daire,konya,karatay,mengene,selimiye,6,0,0,yerden isitma,125,98,2+1,1,1850000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,5,3,11 - 15,merkezi pay olcer,65,60,1+1,1,1850000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,9,9,11 - 15,kombi dogalgaz,120,110,2+1,1,1850000
+satilik,konut,daire,konya,selcuklu,aydinlikevler,aydinlik,3,3,16 - 20,kombi dogalgaz,150,120,3+1,1,1850000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,3,2,16 - 20,merkezi dogalgaz,135,110,2+1,1,1850000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,9,2,16 - 20,merkezi dogalgaz,148,120,3+1,1,1850000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,12,7,16 - 20,kombi dogalgaz,90,80,2+1,1,1850000
+satilik,konut,daire,konya,selcuklu,seyh samil,cumhuriyet,12,2,16 - 20,merkezi dogalgaz,120,100,2+1,1,1850000
+satilik,konut,daire,konya,selcuklu,isiklar,fatih,5,2,21 +,kombi dogalgaz,135,110,2+1,1,1850000
+satilik,konut,daire,konya,karatay,haciyusufmescit,mevlana,6,2,3,yerden isitma,165,125,3+1,2,1850000
+satilik,konut,daire,konya,karatay,elmaci,selimiye,4,4,4,kombi dogalgaz,110,95,2+1,1,1850000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,3,2,5 - 10,kombi dogalgaz,90,70,1+1,1,1850000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,2,5 - 10,kombi dogalgaz,125,110,3+1,1,1850000
+satilik,konut,daire,konya,karatay,karaaslandede,selimiye,4,0,0,kombi dogalgaz,130,85,2+1,1,1875000
+satilik,konut,daire,konya,meram,hatip,tascami,4,2,1,kombi dogalgaz,130,110,3+1,1,1875000
+satilik,konut,daire,konya,karatay,haciibali,selimiye,1,0,16 - 20,soba,200,163,3+1,1,1875000
+satilik,konut,daire,konya,karatay,nakipoglu,mevlana,3,0,21 +,soba,165,150,3+1,1,1875000
+satilik,konut,daire,konya,selcuklu,musalla baglari,nalcaci,9,8,21 +,kombi dogalgaz,135,115,3+1,1,1875000
+satilik,konut,daire,konya,karatay,karaaslandede,selimiye,2,0,0,yerden isitma,110,85,2+1,1,1880000
+satilik,konut,daire,konya,selcuklu,ihsaniye,zafer,4,2,21 +,kombi dogalgaz,145,120,3+1,1,1880000
+satilik,konut,daire,konya,selcuklu,akademi,bosna,5,2,21 +,kombi dogalgaz,140,120,3+1,1,1880000
+satilik,konut,daire,konya,karatay,karaaslandede,selimiye,2,0,0,yerden isitma,110,87,2+1,1,1900000
+satilik,konut,daire,konya,karatay,catalhuyuk,selimiye,2,2,1,kombi dogalgaz,125,90,2+1,1,1900000
+satilik,konut,daire,konya,selcuklu,ferhuniye,zafer,4,2,16 - 20,kombi dogalgaz,120,100,2+1,1,1900000
+satilik,konut,daire,konya,selcuklu,isiklar,fatih,5,3,16 - 20,kombi dogalgaz,120,100,2+1,1,1900000
+satilik,konut,daire,konya,selcuklu,isiklar,fatih,5,3,16 - 20,kombi dogalgaz,135,100,3+1,1,1900000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,10,9,16 - 20,merkezi dogalgaz,165,145,3+1,1,1900000
+satilik,konut,daire,konya,selcuklu,esenler,hocacihan,3,3,21 +,kombi dogalgaz,130,110,3+1,1,1900000
+satilik,konut,daire,konya,selcuklu,malazgirt,cumhuriyet,5,5,21 +,kombi dogalgaz,135,110,3+1,1,1900000
+satilik,konut,daire,konya,selcuklu,esenler,hocacihan,10,9,21 +,merkezi dogalgaz,110,100,2+1,1,1900000
+satilik,konut,daire,konya,karatay,haciibali,selimiye,3,0,5 - 10,kombi dogalgaz,125,95,2+1,1,1900000
+satilik,konut,daire,konya,karatay,orhangazi,selimiye,5,0,5 - 10,kombi dogalgaz,110,90,2+1,1,1900000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,9,9,11 - 15,kombi dogalgaz,130,110,2+1,1,1905000
+satilik,konut,daire,konya,karatay,hamzaoglu,selimiye,6,0,0,yerden isitma,150,120,3+1,1,1910000
+satilik,konut,daire,konya,selcuklu,fatih,fatih,7,4,16 - 20,merkezi dogalgaz,150,125,3+1,1,1935000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,10,2,16 - 20,kombi dogalgaz,120,100,3+1,1,1935000
+satilik,konut,daire,konya,selcuklu,ardicli,bosna,4,1,0,yerden isitma,115,100,2+1,1,1950000
+satilik,konut,daire,konya,karatay,koprubasi,mevlana,6,0,1,kombi dogalgaz,95,85,2+1,1,1950000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,10,4,11 - 15,kombi dogalgaz,130,110,3+1,1,1950000
+satilik,konut,daire,konya,selcuklu,bedir,aydinlik,3,3,16 - 20,kombi dogalgaz,140,120,3+1,1,1950000
+satilik,konut,daire,konya,selcuklu,bedir,aydinlik,3,3,16 - 20,kombi dogalgaz,150,125,3+1,1,1950000
+satilik,konut,daire,konya,selcuklu,buhara,cumhuriyet,2,0,16 - 20,kombi dogalgaz,165,135,3+1,2,1950000
+satilik,konut,daire,konya,selcuklu,binkonutlar,cumhuriyet,3,2,21 +,kombi dogalgaz,135,100,2+1,1,1950000
+satilik,konut,daire,konya,selcuklu,malazgirt,cumhuriyet,7,7,21 +,merkezi dogalgaz,130,120,3+1,1,1950000
+satilik,konut,daire,konya,selcuklu,bedir,aydinlik,8,3,21 +,kombi dogalgaz,150,125,3+1,1,1950000
+satilik,konut,daire,konya,karatay,akabe,selimiye,6,4,3,merkezi pay olcer,95,85,2+1,1,1950000
+satilik,konut,daire,konya,selcuklu,fatih,fatih,5,5,21 +,kombi dogalgaz,145,120,3+1,1,1958000
+satilik,konut,daire,konya,selcuklu,malazgirt,cumhuriyet,7,4,21 +,merkezi dogalgaz,120,105,2+1,1,1975000
+satilik,konut,daire,konya,selcuklu,isiklar,fatih,4,4,21 +,kombi dogalgaz,145,130,3+1,1,1980000
+satilik,konut,daire,konya,karatay,kececiler,mevlana,4,0,3,kombi dogalgaz,150,95,2+1,1,1980000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,4,0,16 - 20,kombi dogalgaz,140,125,2+1,1,1995000
+satilik,konut,daire,konya,karatay,haciyusufmescit,mevlana,6,5,4,merkezi pay olcer,165,120,3+1,1,1995000
+satilik,konut,daire,konya,karatay,karaaslandede,selimiye,2,2,0,yerden isitma,110,85,2+1,1,2000000
+satilik,konut,daire,konya,meram,bahcesehir,tascami,2,2,0,yerden isitma,135,100,2+1,1,2000000
+satilik,konut,daire,konya,karatay,karaaslandede,selimiye,4,3,0,kombi dogalgaz,125,80,2+1,1,2000000
+satilik,konut,daire,konya,karatay,karaaslanuzumcu,selimiye,4,0,0,yerden isitma,135,85,2+1,1,2000000
+satilik,konut,daire,konya,karatay,selimsultan,selimiye,5,5,0,yerden isitma,105,80,2+1,1,2000000
+satilik,konut,daire,konya,karatay,erenler,mevlana,6,3,1,kombi dogalgaz,110,90,2+1,1,2000000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,3,11 - 15,kombi dogalgaz,120,100,3+1,1,2000000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,5,2,16 - 20,kombi dogalgaz,130,110,2+1,1,2000000
+satilik,konut,daire,konya,selcuklu,nisantas,nalcaci,8,8,16 - 20,kombi dogalgaz,150,125,3+1,1,2000000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,11,8,16 - 20,kombi dogalgaz,125,90,2+1,1,2000000
+satilik,konut,daire,konya,selcuklu,buhara,cumhuriyet,2,1,16 - 20,kombi dogalgaz,170,140,3+1,2,2000000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,3,21 +,kombi dogalgaz,120,100,3+1,1,2000000
+satilik,konut,daire,konya,meram,konevi,zafer,4,2,21 +,kombi dogalgaz,155,125,3+1,1,2000000
+satilik,konut,daire,konya,karatay,hamzaoglu,selimiye,3,0,5 - 10,kombi dogalgaz,145,115,3+1,1,2000000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,4,2,5 - 10,kombi dogalgaz,90,80,2+1,1,2000000
+satilik,konut,daire,konya,karatay,dogus,selimiye,5,0,5 - 10,kombi dogalgaz,150,130,3+1,1,2000000
+satilik,konut,daire,konya,karatay,fevzicakmak,sems,6,3,5 - 10,merkezi dogalgaz,100,80,2+1,1,2000000
+satilik,konut,daire,konya,karatay,buyuk sinan,sems,7,2,5 - 10,kombi dogalgaz,155,135,3+1,1,2000000
+satilik,konut,daire,konya,selcuklu,kilincarslan,hocacihan,6,1,21 +,kombi dogalgaz,145,140,3+1,1,2000050
+satilik,konut,daire,konya,karatay,orhangazi,selimiye,4,0,11 - 15,yerden isitma,165,130,3+1,1,2015000
+satilik,konut,daire,konya,selcuklu,aksemsettin,hocacihan,5,5,16 - 20,kombi dogalgaz,110,90,2+1,1,2040000
+satilik,konut,daire,konya,selcuklu,ihsaniye,zafer,10,2,21 +,kombi dogalgaz,130,115,3+1,1,2040000
+satilik,konut,daire,konya,karatay,selimsultan,selimiye,5,2,0,kombi dogalgaz,145,85,2+1,1,2045000
+satilik,konut,daire,konya,karatay,selimsultan,selimiye,5,2,0,kombi dogalgaz,145,85,2+1,1,2047000
+satilik,konut,daire,konya,meram,yaylapinar,tascami,2,2,0,yerden isitma,125,90,2+1,1,2050000
+satilik,konut,daire,konya,karatay,saracoglu,selimiye,2,1,0,yerden isitma,110,85,2+1,1,2050000
+satilik,konut,daire,konya,karatay,catalhuyuk,selimiye,3,3,0,yerden isitma,120,82,2+1,1,2050000
+satilik,konut,daire,konya,selcuklu,akademi,bosna,4,3,0,merkezi pay olcer,95,86,2+1,1,2050000
+satilik,konut,daire,konya,karatay,keykubat,sems,5,5,0,merkezi dogalgaz,115,100,2+1,1,2050000
+satilik,konut,daire,konya,selcuklu,ardicli,bosna,4,2,1,merkezi pay olcer,100,85,2+1,1,2050000
+satilik,konut,daire,konya,selcuklu,nisantas,nalcaci,8,8,16 - 20,kombi dogalgaz,160,145,3+1,1,2050000
+satilik,konut,daire,konya,selcuklu,fatih,fatih,7,1,21 +,merkezi pay olcer,145,120,3+1,1,2050000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,4,4,16 - 20,kombi dogalgaz,145,120,3+1,1,2060000
+satilik,konut,daire,konya,meram,sahibiata,aziziye,6,0,0,yerden isitma,110,80,2+1,1,2065000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,10,9,16 - 20,merkezi dogalgaz,110,90,2+1,1,2070000
+satilik,konut,daire,konya,selcuklu,isiklar,fatih,4,4,21 +,kombi dogalgaz,145,130,3+1,1,2070000
+satilik,konut,daire,konya,meram,alavardi,mimar-sinan,4,0,21 +,merkezi dogalgaz,140,120,2+1,1,2075000
+satilik,konut,daire,konya,karatay,karaaslandede,selimiye,3,0,4,kombi dogalgaz,135,110,3+1,1,2075000
+satilik,konut,daire,konya,selcuklu,mehmet akif,aydinlik,3,0,16 - 20,kombi dogalgaz,140,115,3+1,2,2085000
+satilik,konut,daire,konya,meram,kozagac,tascami,5,4,16 - 20,merkezi dogalgaz,165,145,3+1,1,2090000
+satilik,konut,daire,konya,selcuklu,bedir,aydinlik,3,3,16 - 20,kombi dogalgaz,150,125,3+1,1,2095000
+satilik,konut,daire,konya,karatay,catalhuyuk,selimiye,2,2,0,kombi dogalgaz,95,80,2+1,1,2100000
+satilik,konut,daire,konya,karatay,kececiler,mevlana,4,0,1,kombi dogalgaz,145,95,2+1,1,2100000
+satilik,konut,daire,konya,selcuklu,ardicli,bosna,6,0,1,merkezi pay olcer,110,86,3+1,2,2100000
+satilik,konut,daire,konya,meram,uluirmak,aziziye,3,3,11 - 15,kombi dogalgaz,110,90,2+1,1,2100000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,10,6,16 - 20,merkezi dogalgaz,130,110,3+1,1,2100000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,10,6,16 - 20,merkezi dogalgaz,130,110,3+1,1,2100000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,10,4,16 - 20,kombi dogalgaz,125,110,3+1,1,2100000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,4,4,21 +,kombi dogalgaz,140,110,3+1,1,2100000
+satilik,konut,daire,konya,meram,aydogdu,aziziye,5,0,21 +,kombi dogalgaz,150,130,3+1,1,2100000
+satilik,konut,daire,konya,selcuklu,malazgirt,cumhuriyet,8,3,21 +,kombi dogalgaz,145,110,3+1,1,2100000
+satilik,konut,daire,konya,karatay,sariyakup,selimiye,4,4,5 - 10,kombi dogalgaz,150,135,3+1,1,2100000
+satilik,konut,daire,konya,karatay,akabe,selimiye,4,4,5 - 10,kombi dogalgaz,165,125,3+1,1,2100000
+satilik,konut,daire,konya,karatay,akabe,selimiye,4,4,5 - 10,kombi dogalgaz,165,125,3+1,1,2100000
+satilik,konut,daire,konya,karatay,dogus,selimiye,4,0,5 - 10,kombi dogalgaz,120,85,2+1,1,2100000
+satilik,konut,daire,konya,karatay,orhangazi,selimiye,6,0,5 - 10,kombi dogalgaz,110,90,2+1,1,2100000
+satilik,konut,daire,konya,meram,yenisehir,tascami,11,0,5 - 10,merkezi dogalgaz,125,100,2+1,1,2100000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,5,4,4,merkezi pay olcer,95,77,2+1,1,2120000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,4,3,11 - 15,kombi dogalgaz,145,135,3+1,1,2149000
+satilik,konut,daire,konya,karatay,istiklal,selimiye,4,0,0,kombi dogalgaz,125,95,2+1,1,2150000
+satilik,konut,daire,konya,selcuklu,akademi,bosna,4,4,1,merkezi pay olcer,120,100,3+1,1,2150000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,3,0,16 - 20,kombi dogalgaz,142,114,3+1,1,2150000
+satilik,konut,daire,konya,selcuklu,musalla baglari,nalcaci,7,3,16 - 20,kombi dogalgaz,155,120,3+1,1,2150000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,4,4,21 +,kombi dogalgaz,155,125,3+1,1,2150000
+satilik,konut,daire,konya,meram,meliksah,mimar-sinan,6,0,21 +,merkezi dogalgaz,130,120,3+1,1,2150000
+satilik,konut,daire,konya,selcuklu,hacikaymak,hocacihan,7,2,21 +,merkezi dogalgaz,150,135,3+1,1,2150000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,4,3,5 - 10,kombi dogalgaz,145,135,3+1,1,2150000
+satilik,konut,daire,konya,selcuklu,akademi,bosna,3,1,0,merkezi pay olcer,100,96,3+1,1,2159000
+satilik,konut,daire,konya,karatay,erenler,mevlana,5,0,0,kombi dogalgaz,110,85,2+1,1,2175000
+satilik,konut,daire,konya,meram,hadimi,tascami,2,2,16 - 20,soba,343,150,3+1,1,2175000
+satilik,konut,daire,konya,selcuklu,hanaybasi,hocacihan,3,0,2,kombi dogalgaz,125,90,2+1,1,2180000
+satilik,konut,daire,konya,karatay,koprubasi,mevlana,6,6,5 - 10,merkezi dogalgaz,110,90,2+1,1,2180000
+satilik,konut,daire,konya,karatay,haci hasan,mevlana,6,0,5 - 10,yerden isitma,125,95,2+1,1,2180000
+satilik,konut,daire,konya,karatay,haci hasan,mevlana,4,2,0,kombi dogalgaz,145,125,3+1,1,2200000
+satilik,konut,daire,konya,selcuklu,ardicli,bosna,4,1,0,kombi dogalgaz,140,120,3+1,1,2200000
+satilik,konut,daire,konya,karatay,erenler,mevlana,6,4,0,kombi dogalgaz,110,90,2+1,1,2200000
+satilik,konut,daire,konya,karatay,buyuk sinan,sems,5,3,16 - 20,kombi dogalgaz,140,125,3+1,1,2200000
+satilik,konut,daire,konya,selcuklu,akademi,bosna,4,0,2,merkezi dogalgaz,100,85,2+1,1,2200000
+satilik,konut,daire,konya,karatay,ulubatlihasan,sems,7,4,21 +,kombi dogalgaz,165,135,3+1,1,2200000
+satilik,konut,daire,konya,karatay,catalhuyuk,selimiye,2,0,3,kombi dogalgaz,145,120,3+1,1,2200000
+satilik,konut,daire,konya,karatay,catalhuyuk,selimiye,2,0,3,kombi dogalgaz,140,110,3+1,1,2200000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,5,5,4,merkezi pay olcer,95,77,2+1,1,2200000
+satilik,konut,daire,konya,selcuklu,buhara,cumhuriyet,3,0,5 - 10,kombi dogalgaz,135,120,2+1,1,2200000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,4,4,5 - 10,kombi dogalgaz,90,75,2+1,1,2200000
+satilik,konut,daire,konya,karatay,gaziosmanpasa,selimiye,4,4,5 - 10,merkezi pay olcer,130,100,2+1,1,2200000
+satilik,konut,daire,konya,selcuklu,husamettin celebi,aydinlik,5,0,5 - 10,kombi dogalgaz,125,100,2+1,1,2200000
+satilik,konut,daire,konya,karatay,dogus,selimiye,6,3,5 - 10,merkezi pay olcer,110,90,2+1,1,2200000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,6,3,5 - 10,kombi dogalgaz,170,140,3+1,1,2200000
+satilik,konut,daire,konya,selcuklu,erenkoy,sille,3,2,5 - 10,kombi dogalgaz,110,85,2+1,1,2225000
+satilik,konut,daire,konya,selcuklu,erenkoy,sille,3,2,5 - 10,kombi dogalgaz,105,85,2+1,1,2225000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,2,2,5 - 10,kombi dogalgaz,125,105,3+1,1,2249000
+satilik,konut,daire,konya,karatay,catalhuyuk,selimiye,4,2,0,yerden isitma,150,110,3+1,1,2250000
+satilik,konut,daire,konya,karatay,erenler,mevlana,5,3,0,yerden isitma,115,95,2+1,1,2250000
+satilik,konut,daire,konya,karatay,erenler,mevlana,5,3,0,yerden isitma,115,95,2+1,1,2250000
+satilik,konut,daire,konya,karatay,koprubasi,mevlana,5,2,0,kombi dogalgaz,150,125,3+1,1,2250000
+satilik,konut,daire,konya,karatay,karakulak,selimiye,6,6,0,yerden isitma,130,90,2+1,1,2250000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,2,2,1,yerden isitma,110,85,2+1,1,2250000
+satilik,konut,daire,konya,meram,meliksah,mimar-sinan,4,4,11 - 15,kombi dogalgaz,150,125,3+1,1,2250000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,4,3,11 - 15,kombi dogalgaz,130,100,3+1,1,2250000
+satilik,konut,daire,konya,selcuklu,salahattin,selahattin-koyu,4,3,16 - 20,kombi dogalgaz,145,130,3+1,1,2250000
+satilik,konut,daire,konya,selcuklu,bedir,aydinlik,4,2,16 - 20,kombi dogalgaz,165,140,3+1,1,2250000
+satilik,konut,daire,konya,selcuklu,musalla baglari,nalcaci,9,3,16 - 20,merkezi pay olcer,160,150,3+1,1,2250000
+satilik,konut,daire,konya,selcuklu,akademi,bosna,3,2,2,merkezi pay olcer,100,86,2+1,1,2250000
+satilik,konut,daire,konya,karatay,dogus,selimiye,6,1,5 - 10,kombi dogalgaz,105,90,2+1,1,2250000
+satilik,konut,daire,konya,karatay,karaaslandede,selimiye,2,0,0,yerden isitma,145,115,3+1,1,2275000
+satilik,konut,daire,konya,selcuklu,mehmet akif,aydinlik,4,2,21 +,kombi dogalgaz,150,120,3+1,1,2275000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,4,1,21 +,kombi dogalgaz,125,100,2+1,1,2275000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,7,4,5 - 10,merkezi pay olcer,100,90,2+1,1,2275000
+satilik,konut,daire,konya,karatay,buyuk sinan,sems,5,2,21 +,merkezi dogalgaz,145,115,3+1,1,2290000
+satilik,konut,daire,konya,meram,bahcesehir,tascami,2,2,0,kombi dogalgaz,140,105,3+1,1,2300000
+satilik,konut,daire,konya,karatay,erenler,mevlana,6,6,0,yerden isitma,105,90,2+1,1,2300000
+satilik,konut,daire,konya,meram,hatip,tascami,3,3,1,merkezi dogalgaz,110,100,3+1,1,2300000
+satilik,konut,daire,konya,selcuklu,malazgirt,cumhuriyet,3,1,11 - 15,kombi dogalgaz,125,120,2+1,1,2300000
+satilik,konut,daire,konya,karatay,fetih,mevlana,5,0,11 - 15,merkezi pay olcer,165,120,3+1,1,2300000
+satilik,konut,daire,konya,karatay,keykubat,sems,7,6,11 - 15,yerden isitma,140,130,3+1,1,2300000
+satilik,konut,daire,konya,meram,uluirmak,aziziye,3,3,16 - 20,kombi dogalgaz,190,150,3+1,1,2300000
+satilik,konut,daire,konya,selcuklu,aksemsettin,hocacihan,5,0,16 - 20,merkezi pay olcer,180,125,3+1,1,2300000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,10,4,16 - 20,merkezi dogalgaz,140,130,3+1,1,2300000
+satilik,konut,daire,konya,karatay,hasandedemescit,mevlana,5,3,4,yerden isitma,165,135,3+1,1,2300000
+satilik,konut,daire,konya,selcuklu,buhara,cumhuriyet,3,0,5 - 10,kombi dogalgaz,140,120,2+1,1,2300000
+satilik,konut,daire,konya,meram,uluirmak,aziziye,4,2,5 - 10,kombi dogalgaz,130,115,2+1,1,2300000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,4,0,5 - 10,kombi dogalgaz,115,105,2+1,1,2300000
+satilik,konut,daire,konya,karatay,karakulak,selimiye,6,0,1,kombi dogalgaz,140,120,2+1,2,2325000
+satilik,konut,daire,konya,karatay,erenler,mevlana,6,6,0,yerden isitma,135,100,3+1,1,2330000
+satilik,konut,daire,konya,karatay,erenler,mevlana,6,6,0,yerden isitma,105,95,3+1,1,2330000
+satilik,konut,daire,konya,karatay,catalhuyuk,selimiye,2,0,0,kombi dogalgaz,130,110,3+1,1,2350000
+satilik,konut,daire,konya,karatay,catalhuyuk,selimiye,2,0,0,kombi dogalgaz,130,110,3+1,1,2350000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,0,0,kombi dogalgaz,120,110,2+1,1,2350000
+satilik,konut,daire,konya,karatay,karaaslandede,selimiye,4,2,0,yerden isitma,150,110,3+1,1,2350000
+satilik,konut,daire,konya,karatay,karakulak,selimiye,5,0,0,merkezi pay olcer,165,135,3+1,1,2350000
+satilik,konut,daire,konya,karatay,karakulak,selimiye,6,4,0,yerden isitma,120,100,2+1,1,2350000
+satilik,konut,daire,konya,karatay,kumkopru,selimiye,6,2,0,merkezi dogalgaz,110,80,2+1,1,2350000
+satilik,konut,daire,konya,karatay,kalenderhane,sems,5,5,1,yerden isitma,120,110,2+1,1,2350000
+satilik,konut,daire,konya,selcuklu,bedir,aydinlik,5,5,11 - 15,merkezi dogalgaz,155,120,3+1,2,2350000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,3,16 - 20,kombi dogalgaz,180,135,4+1,1,2350000
+satilik,konut,daire,konya,meram,alavardi,mimar-sinan,4,0,16 - 20,kombi dogalgaz,160,130,3+1,1,2350000
+satilik,konut,daire,konya,selcuklu,ihsaniye,zafer,5,5,16 - 20,kombi dogalgaz,140,120,3+1,1,2350000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,10,6,16 - 20,merkezi dogalgaz,155,118,3+1,1,2350000
+satilik,konut,daire,konya,karatay,karaaslandede,selimiye,3,1,2,yerden isitma,115,105,3+1,2,2350000
+satilik,konut,daire,konya,karatay,aziziye,selimiye,3,3,21 +,kombi dogalgaz,150,120,3+1,1,2350000
+satilik,konut,daire,konya,selcuklu,bedir,aydinlik,4,2,21 +,kombi dogalgaz,180,120,3+1,1,2350000
+satilik,konut,daire,konya,selcuklu,mehmet akif,aydinlik,5,3,21 +,kombi dogalgaz,180,140,3+1,2,2350000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,4,0,4,kombi dogalgaz,135,120,3+1,1,2350000
+satilik,konut,daire,konya,karatay,haciyusufmescit,mevlana,6,3,4,kombi dogalgaz,165,125,3+1,1,2350000
+satilik,konut,daire,konya,karatay,nakipoglu,mevlana,4,4,5 - 10,kombi dogalgaz,160,120,3+1,1,2350000
+satilik,konut,daire,konya,karatay,dogus,selimiye,6,0,5 - 10,kombi dogalgaz,150,120,3+1,1,2350000
+satilik,konut,daire,konya,meram,hatip,tascami,7,2,5 - 10,kombi dogalgaz,167,140,3+1,2,2350000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,4,0,2,kombi dogalgaz,110,85,2+1,1,2360000
+satilik,konut,daire,konya,karatay,karaaslandede,selimiye,2,2,0,yerden isitma,135,105,3+1,1,2375000
+satilik,konut,daire,konya,karatay,mengene,selimiye,6,0,0,yerden isitma,145,110,3+1,1,2375000
+satilik,konut,daire,konya,karatay,hamzaoglu,selimiye,6,0,1,yerden isitma,140,125,2+1,1,2375000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,3,2,11 - 15,kombi dogalgaz,170,145,3+1,1,2375000
+satilik,konut,daire,konya,karatay,karakulak,selimiye,4,0,0,yerden isitma,145,105,2+1,2,2380000
+satilik,konut,daire,konya,karatay,hamzaoglu,selimiye,4,2,5 - 10,kombi dogalgaz,105,90,2+1,1,2380000
+satilik,konut,daire,konya,karatay,karakulak,selimiye,5,0,5 - 10,kombi dogalgaz,150,125,3+1,1,2380000
+satilik,konut,daire,konya,karatay,catalhuyuk,selimiye,2,0,1,kombi dogalgaz,160,110,3+1,1,2390000
+satilik,konut,daire,konya,selcuklu,husamettin celebi,aydinlik,3,0,11 - 15,kombi dogalgaz,160,140,4+1,1,2390000
+satilik,konut,daire,konya,karatay,kececiler,mevlana,4,4,5 - 10,kombi dogalgaz,160,135,3+1,2,2390000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,4,0,5 - 10,kombi dogalgaz,155,140,3+1,2,2390000
+satilik,konut,daire,konya,karatay,mengene,selimiye,5,4,0,yerden isitma,128,85,2+1,1,2395000
+satilik,konut,daire,konya,karatay,karaaslandede,selimiye,2,2,0,yerden isitma,160,110,3+1,1,2400000
+satilik,konut,daire,konya,karatay,orhangazi,selimiye,6,2,0,merkezi pay olcer,165,140,3+1,1,2400000
+satilik,konut,daire,konya,selcuklu,isiklar,fatih,3,2,11 - 15,kombi dogalgaz,140,115,3+1,1,2400000
+satilik,konut,daire,konya,karatay,kumkopru,selimiye,5,3,11 - 15,merkezi pay olcer,140,130,3+1,1,2400000
+satilik,konut,daire,konya,karatay,karakulak,selimiye,4,0,3,kombi dogalgaz,170,135,3+1,1,2400000
+satilik,konut,daire,konya,meram,havzan,meram,3,0,4,yerden isitma,100,85,2+1,1,2400000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,4,1,4,kombi dogalgaz,90,70,2+1,1,2400000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,4,3,5 - 10,kombi dogalgaz,120,100,2+1,1,2400000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,4,3,5 - 10,kombi dogalgaz,165,140,3+1,1,2400000
+satilik,konut,daire,konya,karatay,haciyusufmescit,mevlana,6,0,5 - 10,kombi dogalgaz,165,115,3+1,1,2400000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,3,0,4,kombi dogalgaz,140,110,3+1,1,2405000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,7,7,5 - 10,merkezi pay olcer,140,120,3+1,1,2420000
+satilik,konut,daire,konya,karatay,orhangazi,selimiye,6,2,0,kombi dogalgaz,150,115,3+1,1,2425000
+satilik,konut,daire,konya,karatay,haciveyiszade,mevlana,5,5,4,kombi dogalgaz,120,100,2+1,1,2425000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,2,1,yerden isitma,125,120,2+1,1,2435000
+satilik,konut,daire,konya,meram,bahcesehir,tascami,2,1,0,kombi dogalgaz,150,106,3+1,1,2450000
+satilik,konut,daire,konya,karatay,karaaslandede,selimiye,2,1,0,yerden isitma,145,106,3+1,1,2450000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,0,0,kombi dogalgaz,110,85,2+1,1,2450000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,4,3,0,kombi dogalgaz,140,120,2+1,1,2450000
+satilik,konut,daire,konya,karatay,mengene,selimiye,5,3,0,yerden isitma,100,85,2+1,1,2450000
+satilik,konut,daire,konya,karatay,erenler,mevlana,6,6,0,kombi dogalgaz,105,90,2+1,1,2450000
+satilik,konut,daire,konya,karatay,selimsultan,selimiye,6,2,0,kombi dogalgaz,140,120,3+1,1,2450000
+satilik,konut,daire,konya,karatay,karaaslandede,selimiye,3,3,0,yerden isitma,115,105,3+1,2,2450000
+satilik,konut,daire,konya,karatay,akabe,selimiye,6,4,0,kombi dogalgaz,160,130,3+1,2,2450000
+satilik,konut,daire,konya,karatay,cataltomek,selimiye,4,2,11 - 15,kombi dogalgaz,160,125,3+1,1,2450000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,10,5,11 - 15,kombi dogalgaz,145,125,3+1,1,2450000
+satilik,konut,daire,konya,selcuklu,aydinlikevler,aydinlik,5,1,16 - 20,kombi dogalgaz,145,130,3+1,1,2450000
+satilik,konut,daire,konya,selcuklu,hanaybasi,hocacihan,3,2,3,yerden isitma,162,116,2+1,1,2450000
+satilik,konut,daire,konya,karatay,haciibali,selimiye,4,1,5 - 10,kombi dogalgaz,170,130,3+1,1,2450000
+satilik,konut,daire,konya,karatay,dogus,selimiye,3,2,5 - 10,kombi dogalgaz,165,130,3+1,2,2450000
+satilik,konut,daire,konya,selcuklu,husamettin celebi,aydinlik,4,1,5 - 10,yerden isitma,130,110,2+1,1,2458000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,6,6,16 - 20,merkezi dogalgaz,155,130,3+1,2,2468000
+satilik,konut,daire,konya,meram,aymanas,tascami,6,4,0,merkezi dogalgaz,160,135,3+1,1,2480000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,5,3,11 - 15,kombi dogalgaz,160,140,3+1,1,2485000
+satilik,konut,daire,konya,meram,meliksah,mimar-sinan,5,2,16 - 20,kombi dogalgaz,135,110,2+1,1,2485000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,5,5,11 - 15,kombi dogalgaz,165,135,3+1,2,2490000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,5,5,11 - 15,kombi dogalgaz,165,135,3+1,2,2490000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,6,0,3,kombi dogalgaz,181,135,3+1,1,2490000
+satilik,konut,daire,konya,karatay,karaaslandede,selimiye,3,2,0,yerden isitma,160,135,3+1,1,2500000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,0,0,kombi dogalgaz,140,120,2+1,1,2500000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,0,0,yerden isitma,150,125,3+1,1,2500000
+satilik,konut,daire,konya,karatay,catalhuyuk,selimiye,4,3,0,kombi dogalgaz,150,110,3+1,1,2500000
+satilik,konut,daire,konya,karatay,fetih,mevlana,5,3,0,kombi dogalgaz,100,88,2+1,1,2500000
+satilik,konut,daire,konya,karatay,akabe,selimiye,6,0,0,yerden isitma,150,115,3+1,1,2500000
+satilik,konut,daire,konya,meram,aymanas,tascami,8,8,0,yerden isitma,150,135,3+1,1,2500000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,2,1,kombi dogalgaz,140,120,2+1,1,2500000
+satilik,konut,daire,konya,karatay,haciibali,selimiye,6,0,1,kombi dogalgaz,155,125,3+1,1,2500000
+satilik,konut,daire,konya,selcuklu,malazgirt,cumhuriyet,3,3,11 - 15,kombi dogalgaz,145,140,3+1,1,2500000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,4,3,11 - 15,kombi dogalgaz,125,110,2+1,1,2500000
+satilik,konut,daire,konya,karatay,buyuk sinan,sems,4,2,11 - 15,kombi dogalgaz,185,145,3+1,1,2500000
+satilik,konut,daire,konya,meram,havzan,meram,3,0,16 - 20,kombi dogalgaz,155,125,3+1,1,2500000
+satilik,konut,daire,konya,selcuklu,ihsaniye,zafer,5,5,16 - 20,kombi dogalgaz,175,145,3+1,1,2500000
+satilik,konut,daire,konya,karatay,gaziosmanpasa,selimiye,4,0,16 - 20,merkezi pay olcer,150,130,3+1,2,2500000
+satilik,konut,daire,konya,selcuklu,seyh samil,cumhuriyet,8,6,21 +,merkezi pay olcer,125,110,2+1,1,2500000
+satilik,konut,daire,konya,karatay,hasandedemescit,mevlana,5,4,3,yerden isitma,165,135,3+1,1,2500000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,6,0,3,yerden isitma,170,135,3+1,1,2500000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,5,0,3,kombi dogalgaz,127,110,2+1,2,2500000
+satilik,konut,daire,konya,selcuklu,hanaybasi,hocacihan,3,0,4,kombi dogalgaz,175,150,3+1,1,2500000
+satilik,konut,daire,konya,karatay,yediler,sems,6,2,4,merkezi dogalgaz,165,150,3+1,1,2500000
+satilik,konut,daire,konya,selcuklu,mehmet akif,aydinlik,2,0,5 - 10,kombi dogalgaz,165,135,3+1,1,2500000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,4,3,5 - 10,merkezi pay olcer,176,145,3+1,1,2500000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,4,0,5 - 10,merkezi pay olcer,135,100,2+1,1,2500000
+satilik,konut,daire,konya,karatay,dogus,selimiye,5,3,5 - 10,kombi dogalgaz,150,120,3+1,1,2500000
+satilik,konut,daire,konya,selcuklu,hocacihan,hocacihan,5,1,5 - 10,kombi dogalgaz,137,120,3+1,1,2500000
+satilik,konut,daire,konya,selcuklu,seyh samil,cumhuriyet,5,0,21 +,kombi dogalgaz,120,100,3+1,1,2520000
+satilik,konut,daire,konya,selcuklu,mehmet akif,aydinlik,4,2,21 +,kombi dogalgaz,165,135,3+1,2,2525000
+satilik,konut,daire,konya,meram,koycegiz,dere,3,2,5 - 10,kombi dogalgaz,80,65,2+1,1,2549000
+satilik,konut,daire,konya,karatay,catalhuyuk,selimiye,2,2,0,yerden isitma,165,130,3+1,1,2550000
+satilik,konut,daire,konya,meram,ulugbey,tascami,5,3,0,yerden isitma,100,80,2+1,1,2550000
+satilik,konut,daire,konya,karatay,akabe,selimiye,6,3,0,yerden isitma,130,90,2+1,1,2550000
+satilik,konut,daire,konya,karatay,mengene,selimiye,6,1,0,merkezi dogalgaz,160,140,3+1,1,2550000
+satilik,konut,daire,konya,karatay,keykubat,sems,5,3,11 - 15,kombi dogalgaz,165,120,3+1,1,2550000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,4,4,11 - 15,kombi dogalgaz,145,135,3+1,2,2550000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,10,2,11 - 15,kombi dogalgaz,135,125,3+1,2,2550000
+satilik,konut,daire,konya,selcuklu,sakarya,aydinlik,3,3,16 - 20,kombi dogalgaz,195,180,3+1,2,2550000
+satilik,konut,daire,konya,karatay,emirgazi,mevlana,5,1,5 - 10,kombi dogalgaz,155,135,3+1,1,2550000
+satilik,konut,daire,konya,karatay,emirgazi,mevlana,6,5,5 - 10,kombi dogalgaz,145,120,3+1,1,2550000
+satilik,konut,daire,konya,karatay,akabe,selimiye,4,4,5 - 10,kombi dogalgaz,165,140,3+1,2,2550000
+satilik,konut,daire,konya,karatay,haciyusufmescit,mevlana,6,2,11 - 15,kombi dogalgaz,175,145,3+1,1,2575000
+satilik,konut,daire,konya,karatay,kalenderhane,sems,5,4,5 - 10,merkezi dogalgaz,165,135,3+1,1,2575000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,2,0,yerden isitma,115,105,2+1,1,2580000
+satilik,konut,daire,konya,karatay,kumkopru,selimiye,6,3,0,yerden isitma,150,120,3+1,1,2580000
+satilik,konut,daire,konya,selcuklu,sille ak,sille,2,2,1,yerden isitma,110,95,2+1,1,2580000
+satilik,konut,daire,konya,karatay,hacisadik,mevlana,7,7,5 - 10,merkezi pay olcer,165,135,3+1,2,2595000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,3,0,kombi dogalgaz,140,120,2+1,1,2600000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,0,0,kombi dogalgaz,95,75,2+1,1,2600000
+satilik,konut,daire,konya,karatay,karakulak,selimiye,5,2,0,kombi dogalgaz,155,135,3+1,1,2600000
+satilik,konut,daire,konya,karatay,kumkopru,selimiye,5,2,0,yerden isitma,135,107,3+1,1,2600000
+satilik,konut,daire,konya,karatay,karakulak,selimiye,6,3,0,kombi dogalgaz,125,100,2+1,1,2600000
+satilik,konut,daire,konya,karatay,karakulak,selimiye,6,0,0,yerden isitma,160,125,3+1,1,2600000
+satilik,konut,daire,konya,karatay,akabe,selimiye,6,0,1,kombi dogalgaz,165,140,3+1,1,2600000
+satilik,konut,daire,konya,selcuklu,hanaybasi,hocacihan,3,0,11 - 15,kombi dogalgaz,170,135,4+1,1,2600000
+satilik,konut,daire,konya,selcuklu,aksemsettin,hocacihan,4,0,11 - 15,kombi dogalgaz,170,130,3+1,1,2600000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,10,5,11 - 15,kombi dogalgaz,145,130,3+1,1,2600000
+satilik,konut,daire,konya,meram,havzan,meram,4,0,16 - 20,kombi dogalgaz,150,130,3+1,1,2600000
+satilik,konut,daire,konya,selcuklu,bedir,aydinlik,7,1,16 - 20,kombi dogalgaz,165,130,3+1,1,2600000
+satilik,konut,daire,konya,selcuklu,musalla baglari,nalcaci,8,8,21 +,merkezi dogalgaz,165,135,3+1,1,2600000
+satilik,konut,daire,konya,selcuklu,hanaybasi,hocacihan,2,0,4,kombi dogalgaz,160,140,3+1,1,2600000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,2,4,kombi dogalgaz,140,120,2+1,1,2600000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,4,4,5 - 10,kombi dogalgaz,145,135,3+1,1,2600000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,4,4,5 - 10,kombi dogalgaz,145,135,3+1,2,2600000
+satilik,konut,daire,konya,karatay,emirgazi,mevlana,6,5,5 - 10,yerden isitma,160,140,3+1,1,2610000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,0,0,yerden isitma,125,105,3+1,1,2615000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,0,0,yerden isitma,135,110,3+1,1,2620000
+satilik,konut,daire,konya,karatay,selimsultan,selimiye,6,3,0,kombi dogalgaz,165,135,3+1,1,2620000
+satilik,konut,daire,konya,karatay,hasandedemescit,mevlana,6,1,3,kombi dogalgaz,155,135,3+1,2,2620000
+satilik,konut,daire,konya,karatay,akabe,selimiye,5,4,0,merkezi pay olcer,140,115,3+1,1,2625000
+satilik,konut,daire,konya,meram,koycegiz,dere,3,3,2,yerden isitma,135,105,3+1,1,2625000
+satilik,konut,daire,konya,karatay,erenler,mevlana,5,5,4,merkezi pay olcer,185,150,3+1,1,2625000
+satilik,konut,daire,konya,karatay,emirgazi,mevlana,8,3,0,yerden isitma,150,111,3+1,2,2630000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,2,1,0,yerden isitma,125,90,2+1,1,2650000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,2,0,kombi dogalgaz,140,120,2+1,1,2650000
+satilik,konut,daire,konya,karatay,erenler,mevlana,4,2,0,yerden isitma,135,120,3+1,1,2650000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,6,4,0,yerden isitma,130,110,2+1,1,2650000
+satilik,konut,daire,konya,karatay,akabe,selimiye,6,2,0,yerden isitma,160,120,3+1,2,2650000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,6,1,11 - 15,kombi dogalgaz,170,140,3+1,1,2650000
+satilik,konut,daire,konya,selcuklu,husamettin celebi,aydinlik,7,5,11 - 15,kombi dogalgaz,200,175,3+1,1,2650000
+satilik,konut,daire,konya,meram,hatip,tascami,8,7,11 - 15,kombi dogalgaz,165,155,3+1,1,2650000
+satilik,konut,daire,konya,selcuklu,buhara,cumhuriyet,2,2,16 - 20,soba,230,180,5+1,2,2650000
+satilik,konut,daire,konya,selcuklu,kilincarslan,hocacihan,3,3,21 +,kombi dogalgaz,200,160,3+1,2,2650000
+satilik,konut,daire,konya,karatay,akabe,selimiye,5,2,3,kombi dogalgaz,125,100,2+1,1,2650000
+satilik,konut,daire,konya,meram,koycegiz,dere,4,3,5 - 10,kombi dogalgaz,110,90,3+1,1,2650000
+satilik,konut,daire,konya,karatay,haciyusufmescit,mevlana,5,4,5 - 10,kombi dogalgaz,170,140,3+1,1,2650000
+satilik,konut,daire,konya,karatay,fevzicakmak,sems,5,0,5 - 10,merkezi dogalgaz,145,120,3+1,1,2650000
+satilik,konut,daire,konya,karatay,haciyusufmescit,mevlana,6,2,5 - 10,merkezi dogalgaz,155,110,3+1,1,2650000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,2,0,0,yerden isitma,115,95,2+1,1,2675000
+satilik,konut,daire,konya,selcuklu,mehmet akif,aydinlik,3,2,11 - 15,kombi dogalgaz,170,150,3+1,1,2675000
+satilik,konut,daire,konya,karatay,selimsultan,selimiye,5,5,0,merkezi dogalgaz,150,110,3+1,1,2680000
+satilik,konut,daire,konya,karatay,koprubasi,mevlana,5,0,0,kombi dogalgaz,155,115,3+1,1,2680000
+satilik,konut,daire,konya,karatay,kumkopru,selimiye,6,6,0,kombi dogalgaz,135,110,3+1,2,2690000
+satilik,konut,daire,konya,meram,meliksah,mimar-sinan,5,0,16 - 20,merkezi dogalgaz,145,133,3+1,1,2690000
+satilik,konut,daire,konya,karatay,akabe,selimiye,4,0,11 - 15,kombi dogalgaz,175,140,3+1,2,2695000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,3,0,kombi dogalgaz,150,130,3+1,1,2700000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,3,0,kombi dogalgaz,160,130,3+1,1,2700000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,3,0,yerden isitma,130,110,3+1,1,2700000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,2,0,kombi dogalgaz,110,85,2+1,1,2700000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,2,0,kombi dogalgaz,120,86,2+1,1,2700000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,3,2,0,yerden isitma,120,105,2+1,1,2700000
+satilik,konut,daire,konya,karatay,orhangazi,selimiye,5,5,0,yerden isitma,155,110,3+1,2,2700000
+satilik,konut,daire,konya,selcuklu,aydinlikevler,aydinlik,3,3,11 - 15,kombi dogalgaz,160,135,3+1,1,2700000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,7,0,11 - 15,kombi dogalgaz,165,128,3+1,2,2700000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,7,0,11 - 15,kombi dogalgaz,165,128,3+1,2,2700000
+satilik,konut,daire,konya,selcuklu,kilincarslan,hocacihan,9,7,21 +,merkezi dogalgaz,140,120,3+1,1,2700000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,3,2,3,yerden isitma,130,90,2+1,1,2700000
+satilik,konut,daire,konya,karatay,karakulak,selimiye,4,1,5 - 10,merkezi dogalgaz,170,145,3+1,1,2700000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,7,6,5 - 10,kombi dogalgaz,180,160,3+1,1,2700000
+satilik,konut,daire,konya,karatay,selimsultan,selimiye,5,2,0,yerden isitma,160,135,3+1,1,2720000
+satilik,konut,daire,konya,meram,ulugbey,tascami,5,0,11 - 15,kombi dogalgaz,165,135,3+1,2,2720000
+satilik,konut,daire,konya,karatay,akabe,selimiye,5,5,4,kombi dogalgaz,160,135,3+1,2,2720000
+satilik,konut,daire,konya,selcuklu,bedir,aydinlik,4,1,11 - 15,kombi dogalgaz,155,140,3+1,1,2749000
+satilik,konut,daire,konya,selcuklu,husamettin celebi,aydinlik,3,1,0,yerden isitma,120,105,2+1,1,2750000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,1,0,yerden isitma,165,135,3+1,1,2750000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,3,0,0,kombi dogalgaz,125,110,2+1,1,2750000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,3,0,0,kombi dogalgaz,125,105,2+1,1,2750000
+satilik,konut,daire,konya,selcuklu,husamettin celebi,aydinlik,3,0,0,yerden isitma,125,95,2+1,1,2750000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,3,0,0,yerden isitma,130,100,2+1,1,2750000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,3,0,0,yerden isitma,130,100,2+1,1,2750000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,0,0,yerden isitma,140,110,3+1,1,2750000
+satilik,konut,daire,konya,karatay,nakipoglu,mevlana,4,3,0,merkezi dogalgaz,185,155,4+1,1,2750000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,5,1,0,yerden isitma,130,110,2+1,1,2750000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,5,0,0,kombi dogalgaz,140,110,2+1,1,2750000
+satilik,konut,daire,konya,karatay,karakulak,selimiye,6,3,0,yerden isitma,150,120,3+1,1,2750000
+satilik,konut,daire,konya,meram,kozagac,tascami,6,2,0,kombi dogalgaz,110,85,2+1,1,2750000
+satilik,konut,daire,konya,karatay,haci hasan,mevlana,6,1,0,yerden isitma,155,130,3+1,1,2750000
+satilik,konut,daire,konya,karatay,haciyusufmescit,mevlana,7,6,0,kombi dogalgaz,145,130,3+1,1,2750000
+satilik,konut,daire,konya,karatay,erenler,mevlana,7,5,0,kombi dogalgaz,155,130,3+1,1,2750000
+satilik,konut,daire,konya,karatay,haciyusufmescit,mevlana,7,3,0,yerden isitma,140,125,3+1,1,2750000
+satilik,konut,daire,konya,meram,uzunharmanlar,tascami,9,4,0,yerden isitma,160,130,3+1,1,2750000
+satilik,konut,daire,konya,karatay,kumkopru,selimiye,6,0,0,yerden isitma,180,140,4+1,2,2750000
+satilik,konut,daire,konya,selcuklu,husamettin celebi,aydinlik,4,1,11 - 15,kombi dogalgaz,200,160,4+1,1,2750000
+satilik,konut,daire,konya,meram,aymanas,tascami,6,2,11 - 15,kombi dogalgaz,155,115,3+1,1,2750000
+satilik,konut,daire,konya,selcuklu,kilincarslan,hocacihan,4,4,16 - 20,kombi dogalgaz,220,200,3+1,1,2750000
+satilik,konut,daire,konya,meram,alavardi,mimar-sinan,6,0,16 - 20,kombi dogalgaz,140,90,2+1,1,2750000
+satilik,konut,daire,konya,selcuklu,mehmet akif,aydinlik,4,3,16 - 20,kombi dogalgaz,150,130,3+1,2,2750000
+satilik,konut,daire,konya,karatay,orhangazi,selimiye,5,5,2,yerden isitma,200,185,3+1,1,2750000
+satilik,konut,daire,konya,karatay,karaaslanuzumcu,selimiye,3,2,2,kombi dogalgaz,135,100,3+1,2,2750000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,9,9,21 +,merkezi dogalgaz,165,145,3+1,1,2750000
+satilik,konut,daire,konya,selcuklu,sille ak,sille,3,0,4,kombi dogalgaz,160,125,3+1,1,2750000
+satilik,konut,daire,konya,selcuklu,sille ak,sille,3,0,4,kombi dogalgaz,160,125,3+1,1,2750000
+satilik,konut,daire,konya,selcuklu,sille ak,sille,3,0,4,yerden isitma,160,125,3+1,1,2750000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,4,2,4,kombi dogalgaz,100,80,2+1,1,2750000
+satilik,konut,daire,konya,karatay,fetih,mevlana,5,5,4,merkezi pay olcer,175,140,3+1,1,2750000
+satilik,konut,daire,konya,karatay,kayacikaraplar,sems,4,2,4,kombi dogalgaz,165,145,3+1,2,2750000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,0,0,yerden isitma,150,110,3+1,1,2770000
+satilik,konut,daire,konya,karatay,dogus,selimiye,6,4,11 - 15,kombi dogalgaz,155,130,3+1,1,2770000
+satilik,konut,daire,konya,karatay,akabe,selimiye,6,4,11 - 15,kombi dogalgaz,155,130,3+1,1,2770000
+satilik,konut,daire,konya,selcuklu,sille ak,sille,3,0,4,yerden isitma,165,125,3+1,1,2770000
+satilik,konut,daire,konya,selcuklu,fatih,fatih,9,2,21 +,kombi dogalgaz,180,160,3+1,1,2775000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,8,4,5 - 10,kombi dogalgaz,145,130,3+1,1,2775000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,8,4,5 - 10,merkezi dogalgaz,145,130,3+1,1,2775000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,3,1,yerden isitma,135,120,2+1,1,2790000
+satilik,konut,daire,konya,selcuklu,aksemsettin,hocacihan,3,0,0,yerden isitma,155,120,3+1,1,2795000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,2,0,kombi dogalgaz,110,85,2+1,1,2800000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,4,0,0,yerden isitma,135,100,3+1,1,2800000
+satilik,konut,daire,konya,selcuklu,aksemsettin,hocacihan,5,0,0,kombi dogalgaz,115,100,2+1,1,2800000
+satilik,konut,daire,konya,karatay,orhangazi,selimiye,6,6,0,kombi dogalgaz,145,115,3+1,1,2800000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,10,5,11 - 15,merkezi dogalgaz,165,135,3+1,1,2800000
+satilik,konut,daire,konya,selcuklu,feritpasa,nalcaci,11,9,21 +,kombi dogalgaz,210,200,4+1,2,2800000
+satilik,konut,daire,konya,karatay,selimsultan,selimiye,6,5,0,merkezi dogalgaz,160,135,3+1,1,2820000
+satilik,konut,daire,konya,selcuklu,kilincarslan,hocacihan,5,3,11 - 15,merkezi dogalgaz,165,130,3+1,1,2820000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,7,4,11 - 15,kombi dogalgaz,150,140,3+1,1,2845000
+satilik,konut,daire,konya,karatay,dogus,selimiye,5,5,0,kombi dogalgaz,155,135,3+1,1,2850000
+satilik,konut,daire,konya,karatay,fetih,mevlana,6,2,0,kombi dogalgaz,150,120,3+1,1,2850000
+satilik,konut,daire,konya,karatay,haci hasan,mevlana,6,2,0,yerden isitma,155,130,3+1,1,2850000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,0,0,yerden isitma,140,120,3+1,2,2850000
+satilik,konut,daire,konya,karatay,nakipoglu,mevlana,4,2,0,yerden isitma,165,135,3+1,2,2850000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,6,2,0,kombi dogalgaz,155,125,3+1,2,2850000
+satilik,konut,daire,konya,selcuklu,akademi,bosna,4,2,1,merkezi pay olcer,135,115,3+1,2,2850000
+satilik,konut,daire,konya,selcuklu,buhara,cumhuriyet,2,0,16 - 20,kombi dogalgaz,165,135,3+1,1,2850000
+satilik,konut,daire,konya,karatay,ulubatlihasan,sems,4,2,16 - 20,kombi dogalgaz,175,140,4+1,1,2850000
+satilik,konut,daire,konya,meram,havzan,meram,3,0,3,yerden isitma,110,90,2+1,1,2850000
+satilik,konut,daire,konya,karatay,hamzaoglu,selimiye,5,2,3,yerden isitma,140,125,3+1,1,2850000
+satilik,konut,daire,konya,karatay,karaaslandede,selimiye,3,3,4,merkezi dogalgaz,165,135,3+1,1,2850000
+satilik,konut,daire,konya,karatay,ulubatlihasan,sems,3,1,5 - 10,kombi dogalgaz,160,135,3+1,1,2850000
+satilik,konut,daire,konya,karatay,akabe,selimiye,5,0,5 - 10,merkezi pay olcer,165,125,3+1,1,2850000
+satilik,konut,daire,konya,selcuklu,selcuk,hocacihan,13,4,5 - 10,merkezi pay olcer,105,85,2+1,1,2850000
+satilik,konut,daire,konya,karatay,hasandedemescit,mevlana,7,7,1,yerden isitma,155,120,3+1,1,2875000
+satilik,konut,daire,konya,selcuklu,buhara,cumhuriyet,3,0,11 - 15,kombi dogalgaz,180,145,3+1,1,2875000
+satilik,konut,daire,konya,selcuklu,akincilar,aydinlik,5,3,16 - 20,merkezi dogalgaz,168,140,3+1,1,2875000
+satilik,konut,daire,konya,karatay,kayacikaraplar,sems,4,1,5 - 10,kombi dogalgaz,180,145,3+1,1,2875000
+satilik,konut,daire,konya,karatay,koprubasi,mevlana,6,2,2,kombi dogalgaz,175,130,3+1,1,2890000
+satilik,konut,daire,konya,karatay,akabe,selimiye,5,0,0,kombi dogalgaz,190,170,4+1,2,2899000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,3,0,0,kombi dogalgaz,125,110,2+1,1,2900000
+satilik,konut,daire,konya,karatay,karakulak,selimiye,6,2,0,yerden isitma,165,105,3+1,1,2900000
+satilik,konut,daire,konya,karatay,emirgazi,mevlana,5,5,0,yerden isitma,155,115,3+1,2,2900000
+satilik,konut,daire,konya,selcuklu,dumlupinar,cumhuriyet,3,2,11 - 15,kombi dogalgaz,180,160,3+1,1,2900000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,4,3,5 - 10,merkezi pay olcer,165,120,3+1,1,2900000
+satilik,konut,daire,konya,karatay,koprubasi,mevlana,5,0,5 - 10,merkezi dogalgaz,155,135,3+1,1,2900000
+satilik,konut,daire,konya,selcuklu,sille ak,sille,3,3,0,yerden isitma,125,95,2+1,1,2925000
+satilik,konut,daire,konya,karatay,sariyakup,selimiye,6,6,11 - 15,merkezi pay olcer,180,150,3+1,1,2930000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,4,1,0,yerden isitma,155,120,3+1,1,2950000
+satilik,konut,daire,konya,karatay,karakulak,selimiye,5,5,0,merkezi pay olcer,160,135,3+1,1,2950000
+satilik,konut,daire,konya,selcuklu,aksemsettin,hocacihan,5,0,0,kombi dogalgaz,120,90,2+1,1,2950000
+satilik,konut,daire,konya,karatay,gaziosmanpasa,selimiye,6,4,0,kombi dogalgaz,165,135,3+1,1,2950000
+satilik,konut,daire,konya,karatay,kumkopru,selimiye,6,3,0,kombi dogalgaz,165,140,3+1,1,2950000
+satilik,konut,daire,konya,karatay,gaziosmanpasa,selimiye,6,3,0,yerden isitma,160,125,3+1,1,2950000
+satilik,konut,daire,konya,karatay,celebi,mevlana,6,0,0,merkezi pay olcer,165,125,3+1,1,2950000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,8,4,0,merkezi pay olcer,140,125,2+1,1,2950000
+satilik,konut,daire,konya,meram,uluirmak,aziziye,8,0,0,kombi dogalgaz,165,123,3+1,2,2950000
+satilik,konut,daire,konya,meram,kozagac,tascami,1,0,3,yerden isitma,145,120,3+1,1,2950000
+satilik,konut,daire,konya,karatay,buyuk sinan,sems,6,2,3,kombi dogalgaz,130,85,2+1,1,2950000
+satilik,konut,daire,konya,selcuklu,buhara,cumhuriyet,3,2,5 - 10,kombi dogalgaz,180,150,3+1,1,2950000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,4,2,5 - 10,kombi dogalgaz,165,120,3+1,1,2950000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,4,2,5 - 10,kombi dogalgaz,165,150,3+1,1,2950000
+satilik,konut,daire,konya,karatay,kayacikaraplar,sems,4,1,5 - 10,kombi dogalgaz,180,145,3+1,1,2950000
+satilik,konut,daire,konya,karatay,haci hasan,mevlana,5,5,5 - 10,yerden isitma,150,135,3+1,1,2950000
+satilik,konut,daire,konya,selcuklu,aksemsettin,hocacihan,4,4,5 - 10,kombi dogalgaz,165,135,3+1,2,2950000
+satilik,konut,daire,konya,meram,ulugbey,tascami,5,4,5 - 10,kombi dogalgaz,170,137,3+1,2,2950000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,4,2,1,kombi dogalgaz,165,140,3+1,1,2975000
+satilik,konut,daire,konya,selcuklu,esenler,hocacihan,4,2,21 +,kombi dogalgaz,180,135,3+1,2,2975000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,8,5,0,yerden isitma,130,100,3+1,1,2990000
+satilik,konut,daire,konya,karatay,hamzaoglu,selimiye,6,2,4,yerden isitma,170,125,3+1,2,2999000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,2,0,kombi dogalgaz,150,130,3+1,1,3000000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,3,1,0,yerden isitma,125,105,2+1,1,3000000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,0,0,kombi dogalgaz,165,140,3+1,1,3000000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,0,0,kombi dogalgaz,150,110,3+1,1,3000000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,0,0,kombi dogalgaz,165,140,3+1,1,3000000
+satilik,konut,daire,konya,karatay,akabe,selimiye,4,3,0,kombi dogalgaz,125,90,2+1,1,3000000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,4,3,0,yerden isitma,120,105,2+1,1,3000000
+satilik,konut,daire,konya,karatay,fetih,mevlana,6,2,0,yerden isitma,145,125,3+1,2,3000000
+satilik,konut,daire,konya,selcuklu,mehmet akif,aydinlik,5,4,11 - 15,kombi dogalgaz,170,130,3+1,1,3000000
+satilik,konut,daire,konya,karatay,akabe,selimiye,7,5,11 - 15,kombi dogalgaz,155,135,3+1,1,3000000
+satilik,konut,daire,konya,meram,pirebi,aziziye,4,2,16 - 20,kombi dogalgaz,190,155,3+1,1,3000000
+satilik,konut,daire,konya,meram,yaylapinar,tascami,6,3,2,kombi dogalgaz,140,120,3+1,1,3000000
+satilik,konut,daire,konya,karatay,buyuk sinan,sems,12,6,21 +,kombi dogalgaz,155,150,3+1,1,3000000
+satilik,konut,daire,konya,karatay,yediler,sems,5,0,4,kombi dogalgaz,155,115,3+1,1,3000000
+satilik,konut,daire,konya,karatay,haciveyiszade,mevlana,5,5,5 - 10,yerden isitma,165,135,3+1,1,3000000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,3,0,0,yerden isitma,135,115,3+1,1,3050000
+satilik,konut,daire,konya,karatay,erenler,mevlana,5,4,0,kombi dogalgaz,165,145,3+1,2,3050000
+satilik,konut,daire,konya,meram,alpaslan,tascami,5,2,1,yerden isitma,160,130,3+1,2,3050000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,3,0,kombi dogalgaz,165,140,3+1,1,3100000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,1,0,kombi dogalgaz,165,130,3+1,1,3100000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,0,0,yerden isitma,155,120,3+1,1,3100000
+satilik,konut,daire,konya,meram,alpaslan,tascami,5,5,0,kombi dogalgaz,160,135,3+1,1,3100000
+satilik,konut,daire,konya,meram,yenisehir,tascami,5,4,0,yerden isitma,115,88,2+1,1,3100000
+satilik,konut,daire,konya,karatay,aziziye,selimiye,5,2,0,merkezi dogalgaz,155,120,4+1,1,3100000
+satilik,konut,daire,konya,karatay,haci hasan,mevlana,6,4,0,kombi dogalgaz,154,120,3+1,1,3100000
+satilik,konut,daire,konya,karatay,hamzaoglu,selimiye,6,3,0,kombi dogalgaz,165,135,3+1,1,3100000
+satilik,konut,daire,konya,karatay,emirgazi,mevlana,6,3,0,yerden isitma,165,125,3+1,1,3100000
+satilik,konut,daire,konya,karatay,karakulak,selimiye,6,2,0,yerden isitma,165,120,3+1,1,3100000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,0,0,yerden isitma,150,125,3+1,2,3100000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,0,0,yerden isitma,150,125,3+1,2,3100000
+satilik,konut,daire,konya,karatay,kumkopru,selimiye,6,4,0,kombi dogalgaz,165,125,3+1,2,3100000
+satilik,konut,daire,konya,selcuklu,mehmet akif,aydinlik,3,2,11 - 15,kombi dogalgaz,175,130,3+1,1,3100000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,3,2,11 - 15,kombi dogalgaz,165,145,3+1,1,3100000
+satilik,konut,daire,konya,selcuklu,bosna hersek,bosna,10,1,16 - 20,kombi dogalgaz,130,120,3+1,1,3100000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,4,2,16 - 20,kombi dogalgaz,155,125,3+1,2,3100000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,4,4,3,kombi dogalgaz,155,125,3+1,1,3100000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,4,0,4,kombi dogalgaz,145,135,3+1,1,3100000
+satilik,konut,daire,konya,karatay,ulubatlihasan,sems,5,3,4,yerden isitma,165,135,3+1,1,3100000
+satilik,konut,daire,konya,karatay,erenler,mevlana,7,5,4,merkezi pay olcer,165,140,3+1,1,3100000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,4,0,5 - 10,kombi dogalgaz,175,165,3+1,1,3100000
+satilik,konut,daire,konya,karatay,fetih,mevlana,5,2,5 - 10,kombi dogalgaz,150,135,3+1,1,3100000
+satilik,konut,daire,konya,karatay,haciveyiszade,mevlana,6,6,5 - 10,kombi dogalgaz,190,165,3+1,1,3100000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,5,2,0,kombi dogalgaz,130,115,3+1,1,3125000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,5,2,0,kombi dogalgaz,130,115,3+1,1,3125000
+satilik,konut,daire,konya,selcuklu,husamettin celebi,aydinlik,4,4,11 - 15,kombi dogalgaz,175,135,3+1,1,3125000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,4,2,3,yerden isitma,185,165,3+1,2,3140000
+satilik,konut,daire,konya,selcuklu,husamettin celebi,aydinlik,4,4,11 - 15,kombi dogalgaz,175,135,3+1,1,3150000
+satilik,konut,daire,konya,selcuklu,sakarya,aydinlik,3,3,11 - 15,kombi dogalgaz,170,150,3+1,2,3150000
+satilik,konut,daire,konya,selcuklu,aydinlikevler,aydinlik,3,3,3,yerden isitma,150,120,3+1,1,3150000
+satilik,konut,daire,konya,karatay,selimsultan,selimiye,6,3,3,yerden isitma,165,120,3+1,1,3150000
+satilik,konut,daire,konya,karatay,gaziosmanpasa,selimiye,6,2,0,yerden isitma,155,135,3+1,1,3185000
+satilik,konut,daire,konya,karatay,gaziosmanpasa,selimiye,6,4,0,yerden isitma,160,130,3+1,1,3190000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,2,0,kombi dogalgaz,155,115,3+1,1,3200000
+satilik,konut,daire,konya,karatay,karakulak,selimiye,5,5,0,yerden isitma,165,125,3+1,1,3200000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,1,0,kombi dogalgaz,165,140,3+1,2,3200000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,1,0,yerden isitma,160,120,3+1,2,3200000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,3,0,0,kombi dogalgaz,165,140,3+1,2,3200000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,0,0,yerden isitma,165,130,3+1,2,3200000
+satilik,konut,daire,konya,karatay,istiklal,selimiye,4,3,0,kombi dogalgaz,138,113,3+1,2,3200000
+satilik,konut,daire,konya,karatay,gaziosmanpasa,selimiye,6,2,0,yerden isitma,165,130,4+1,2,3200000
+satilik,konut,daire,konya,selcuklu,husamettin celebi,aydinlik,4,0,11 - 15,kombi dogalgaz,170,135,3+1,1,3200000
+satilik,konut,daire,konya,karatay,hamzaoglu,selimiye,6,5,4,kombi dogalgaz,205,175,3+1,2,3200000
+satilik,konut,daire,konya,selcuklu,buhara,cumhuriyet,3,3,5 - 10,kombi dogalgaz,158,142,3+1,1,3200000
+satilik,konut,daire,konya,selcuklu,isiklar,fatih,4,4,5 - 10,yerden isitma,175,135,3+1,1,3200000
+satilik,konut,daire,konya,karatay,fetih,mevlana,5,3,0,kombi dogalgaz,150,125,3+1,2,3240000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,3,2,0,kombi dogalgaz,165,140,3+1,1,3250000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,2,0,kombi dogalgaz,165,140,3+1,1,3250000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,0,0,yerden isitma,140,110,3+1,1,3250000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,5,3,0,kombi dogalgaz,140,110,2+1,1,3250000
+satilik,konut,daire,konya,meram,kovanagzi,tascami,5,2,0,yerden isitma,165,120,3+1,1,3250000
+satilik,konut,daire,konya,selcuklu,mehmet akif,aydinlik,3,2,0,kombi dogalgaz,150,110,3+1,2,3250000
+satilik,konut,daire,konya,selcuklu,mehmet akif,aydinlik,3,0,0,kombi dogalgaz,150,130,3+1,2,3250000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,4,2,0,kombi dogalgaz,145,125,3+1,2,3250000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,4,4,11 - 15,kombi dogalgaz,220,200,5+1,1,3250000
+satilik,konut,daire,konya,selcuklu,akincilar,aydinlik,7,7,11 - 15,merkezi dogalgaz,235,215,5+1,2,3250000
+satilik,konut,daire,konya,selcuklu,seyh samil,cumhuriyet,8,8,16 - 20,merkezi pay olcer,175,140,3+1,1,3250000
+satilik,konut,daire,konya,selcuklu,kilincarslan,hocacihan,9,9,21 +,merkezi dogalgaz,165,135,3+1,1,3250000
+satilik,konut,daire,konya,karatay,buyuk sinan,sems,11,6,21 +,kombi dogalgaz,200,180,5+1,1,3250000
+satilik,konut,daire,konya,selcuklu,hacikaymak,hocacihan,7,2,21 +,merkezi dogalgaz,200,160,3+1,2,3250000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,4,2,4,kombi dogalgaz,170,130,3+1,1,3250000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,3,0,kombi dogalgaz,125,110,3+1,1,3275000
+satilik,konut,daire,konya,meram,alpaslan,tascami,5,2,0,kombi dogalgaz,185,128,3+1,1,3300000
+satilik,konut,daire,konya,karatay,karakulak,selimiye,6,5,0,kombi dogalgaz,165,120,3+1,1,3300000
+satilik,konut,daire,konya,karatay,akabe,selimiye,6,3,0,kombi dogalgaz,165,140,3+1,1,3300000
+satilik,konut,daire,konya,selcuklu,hanaybasi,hocacihan,7,5,0,kombi dogalgaz,120,100,2+1,1,3300000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,0,0,kombi dogalgaz,200,150,4+1,2,3300000
+satilik,konut,daire,konya,karatay,emirgazi,mevlana,5,4,0,kombi dogalgaz,160,120,3+1,2,3300000
+satilik,konut,daire,konya,karatay,akabe,selimiye,5,5,11 - 15,merkezi dogalgaz,170,150,3+1,2,3300000
+satilik,konut,daire,konya,meram,alavardi,mimar-sinan,6,2,21 +,merkezi dogalgaz,185,165,3+1,2,3300000
+satilik,konut,daire,konya,karatay,akabe,selimiye,6,6,3,yerden isitma,155,125,3+1,2,3300000
+satilik,konut,daire,konya,selcuklu,hocacihan,hocacihan,3,2,5 - 10,kombi dogalgaz,160,140,3+1,1,3300000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,5,3,5 - 10,kombi dogalgaz,165,140,3+1,1,3300000
+satilik,konut,daire,konya,karatay,sariyakup,selimiye,6,4,5 - 10,merkezi dogalgaz,180,140,3+1,1,3300000
+satilik,konut,daire,konya,karatay,kalenderhane,sems,6,2,5 - 10,merkezi pay olcer,150,130,3+1,1,3300000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,8,4,5 - 10,kombi dogalgaz,175,135,3+1,1,3300000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,3,3,0,kombi dogalgaz,155,125,3+1,1,3350000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,3,3,0,kombi dogalgaz,150,120,3+1,1,3350000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,2,0,yerden isitma,160,130,3+1,1,3350000
+satilik,konut,daire,konya,meram,alpaslan,tascami,6,3,0,yerden isitma,165,125,3+1,1,3350000
+satilik,konut,daire,konya,karatay,kumkopru,selimiye,6,2,0,yerden isitma,165,130,3+1,2,3350000
+satilik,konut,daire,konya,selcuklu,sakarya,aydinlik,3,2,16 - 20,kombi dogalgaz,180,145,3+1,1,3350000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,4,3,3,yerden isitma,160,135,3+1,1,3350000
+satilik,konut,daire,konya,karatay,yediler,sems,5,4,3,yerden isitma,170,130,3+1,2,3350000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,3,2,4,kombi dogalgaz,175,130,3+1,1,3350000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,5,3,5 - 10,kombi dogalgaz,155,120,3+1,1,3350000
+satilik,konut,daire,konya,selcuklu,sakarya,aydinlik,2,2,11 - 15,kombi dogalgaz,200,165,3+1,1,3375000
+satilik,konut,daire,konya,selcuklu,sille ak,sille,10,10,5 - 10,merkezi pay olcer,195,165,3+1,2,3375000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,2,0,yerden isitma,145,130,3+1,1,3400000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,1,0,yerden isitma,170,140,3+1,1,3400000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,3,0,0,kombi dogalgaz,165,130,3+1,1,3400000
+satilik,konut,daire,konya,selcuklu,aydinlikevler,aydinlik,3,0,0,yerden isitma,145,115,3+1,1,3400000
+satilik,konut,daire,konya,meram,aydogdu,aziziye,5,0,0,yerden isitma,115,88,2+1,1,3400000
+satilik,konut,daire,konya,selcuklu,seker,hocacihan,10,0,0,yerden isitma,160,120,3+1,1,3400000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,4,0,0,kombi dogalgaz,217,155,4+1,2,3400000
+satilik,konut,daire,konya,karatay,celebi,mevlana,6,0,1,merkezi pay olcer,160,130,3+1,1,3400000
+satilik,konut,daire,konya,karatay,mengene,selimiye,5,1,0,yerden isitma,175,130,3+1,1,3425000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,3,2,0,yerden isitma,160,120,3+1,1,3450000
+satilik,konut,daire,konya,selcuklu,mehmet akif,aydinlik,3,0,0,kombi dogalgaz,155,130,3+1,1,3450000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,4,2,0,kombi dogalgaz,165,135,3+1,1,3450000
+satilik,konut,daire,konya,karatay,ulubatlihasan,sems,7,7,16 - 20,merkezi dogalgaz,165,135,3+1,2,3450000
+satilik,konut,daire,konya,karatay,kececiler,mevlana,5,5,4,merkezi pay olcer,180,145,3+1,1,3450000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,5,2,11 - 15,kombi dogalgaz,155,140,3+1,1,3475000
+satilik,konut,daire,konya,karatay,dogus,selimiye,6,3,0,yerden isitma,140,115,3+1,1,3485000
+satilik,konut,daire,konya,selcuklu,hanaybasi,hocacihan,3,3,4,yerden isitma,198,146,3+1,1,3490000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,3,0,yerden isitma,170,125,3+1,1,3500000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,3,0,yerden isitma,145,135,3+1,1,3500000
+satilik,konut,daire,konya,selcuklu,sille ak,sille,3,3,0,yerden isitma,150,120,3+1,1,3500000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,2,0,yerden isitma,135,110,3+1,1,3500000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,0,0,kombi dogalgaz,165,140,3+1,1,3500000
+satilik,konut,daire,konya,karatay,karacigan,sems,4,4,0,yerden isitma,160,120,3+1,1,3500000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,4,2,0,kombi dogalgaz,120,100,2+1,1,3500000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,4,2,0,yerden isitma,150,130,3+1,1,3500000
+satilik,konut,daire,konya,meram,alpaslan,tascami,5,3,0,yerden isitma,145,115,3+1,1,3500000
+satilik,konut,daire,konya,selcuklu,mehmet akif,aydinlik,3,1,0,kombi dogalgaz,140,120,3+1,2,3500000
+satilik,konut,daire,konya,karatay,istiklal,selimiye,4,3,0,kombi dogalgaz,160,140,4+1,2,3500000
+satilik,konut,daire,konya,karatay,akabe,selimiye,6,3,0,merkezi pay olcer,185,160,4+1,2,3500000
+satilik,konut,daire,konya,karatay,dogus,selimiye,6,2,0,yerden isitma,160,130,3+1,2,3500000
+satilik,konut,daire,konya,selcuklu,aksemsettin,hocacihan,2,2,1,kombi dogalgaz,135,115,3+1,1,3500000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,3,1,yerden isitma,135,130,3+1,1,3500000
+satilik,konut,daire,konya,selcuklu,fatih,fatih,3,3,11 - 15,kombi dogalgaz,220,200,4+1,2,3500000
+satilik,konut,daire,konya,selcuklu,akincilar,aydinlik,4,4,16 - 20,kombi dogalgaz,250,200,5+1,2,3500000
+satilik,konut,daire,konya,selcuklu,isiklar,fatih,8,6,21 +,merkezi dogalgaz,130,110,3+1,1,3500000
+satilik,konut,daire,konya,selcuklu,hanaybasi,hocacihan,3,0,3,yerden isitma,155,120,3+1,1,3500000
+satilik,konut,daire,konya,selcuklu,hanaybasi,hocacihan,4,4,5 - 10,kombi dogalgaz,350,280,3+1,1,3500000
+satilik,konut,daire,konya,meram,kovanagzi,tascami,6,0,5 - 10,merkezi pay olcer,160,130,3+1,1,3500000
+satilik,konut,daire,konya,selcuklu,aksemsettin,hocacihan,3,0,0,yerden isitma,170,145,3+1,2,3550000
+satilik,konut,daire,konya,karatay,kumkopru,selimiye,6,2,0,yerden isitma,180,145,4+1,2,3550000
+satilik,konut,daire,konya,karatay,keykubat,sems,3,2,11 - 15,kombi dogalgaz,220,180,4+1,2,3550000
+satilik,konut,daire,konya,meram,caybasi,aziziye,11,3,5 - 10,yerden isitma,145,125,3+1,1,3550000
+satilik,konut,daire,konya,karatay,akabe,selimiye,6,3,5 - 10,merkezi dogalgaz,165,145,3+1,1,3570000
+satilik,konut,daire,konya,karatay,mengene,selimiye,6,2,0,yerden isitma,200,150,4+1,2,3590000
+satilik,konut,daire,konya,karatay,kerim dede,selimiye,6,3,11 - 15,merkezi pay olcer,175,130,3+1,1,3595000
+satilik,konut,daire,konya,selcuklu,seyh samil,cumhuriyet,11,6,16 - 20,merkezi dogalgaz,180,165,4+1,2,3595000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,2,0,kombi dogalgaz,160,120,3+1,1,3600000
+satilik,konut,daire,konya,selcuklu,buhara,cumhuriyet,3,2,0,yerden isitma,155,110,3+1,1,3600000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,8,7,0,kombi dogalgaz,170,150,4+1,1,3600000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,8,7,0,kombi dogalgaz,170,150,4+1,1,3600000
+satilik,konut,daire,konya,selcuklu,aydinlikevler,aydinlik,3,3,0,yerden isitma,130,100,3+1,2,3600000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,3,2,0,kombi dogalgaz,165,140,3+1,2,3600000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,2,0,yerden isitma,160,135,3+1,2,3600000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,4,1,0,kombi dogalgaz,165,140,3+1,2,3600000
+satilik,konut,daire,konya,meram,ulugbey,tascami,5,2,0,kombi dogalgaz,200,160,4+1,2,3600000
+satilik,konut,daire,konya,meram,ulugbey,tascami,5,2,0,kombi dogalgaz,170,135,4+1,2,3600000
+satilik,konut,daire,konya,karatay,keykubat,sems,8,7,0,merkezi pay olcer,155,125,3+1,2,3600000
+satilik,konut,daire,konya,selcuklu,isiklar,fatih,8,3,21 +,kombi dogalgaz,150,135,3+1,1,3600000
+satilik,konut,daire,konya,selcuklu,husamettin celebi,aydinlik,3,3,21 +,kombi dogalgaz,240,220,5+1,2,3600000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,4,3,4,kombi dogalgaz,145,135,3+1,1,3600000
+satilik,konut,daire,konya,selcuklu,esenler,hocacihan,4,4,5 - 10,kombi dogalgaz,155,125,3+1,1,3600000
+satilik,konut,daire,konya,karatay,kumkopru,selimiye,3,3,5 - 10,kombi dogalgaz,285,240,6+1,2,3600000
+satilik,konut,daire,konya,karatay,kerim dede,selimiye,6,2,0,merkezi pay olcer,170,135,3+1,1,3615000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,4,3,4,merkezi dogalgaz,165,145,3+1,2,3640000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,3,3,2,kombi dogalgaz,175,155,3+1,2,3650000
+satilik,konut,daire,konya,selcuklu,hanaybasi,hocacihan,2,2,5 - 10,kombi dogalgaz,178,137,4+1,1,3650000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,4,3,5 - 10,kombi dogalgaz,180,140,3+1,1,3650000
+satilik,konut,daire,konya,selcuklu,aydinlikevler,aydinlik,4,2,5 - 10,kombi dogalgaz,210,190,3+1,1,3650000
+satilik,konut,daire,konya,selcuklu,sille ak,sille,11,2,5 - 10,merkezi dogalgaz,195,160,3+1,2,3650000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,2,0,yerden isitma,170,135,3+1,2,3670000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,3,2,0,kombi dogalgaz,170,140,3+1,1,3700000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,4,3,0,yerden isitma,145,120,3+1,1,3700000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,4,3,0,yerden isitma,155,110,3+1,1,3700000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,5,1,0,yerden isitma,140,125,3+1,1,3700000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,6,5,0,yerden isitma,160,130,3+1,1,3700000
+satilik,konut,daire,konya,selcuklu,husamettin celebi,aydinlik,3,2,0,yerden isitma,195,130,3+1,2,3700000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,2,0,kombi dogalgaz,190,150,4+1,2,3700000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,6,2,0,yerden isitma,170,140,3+1,2,3700000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,7,3,16 - 20,merkezi dogalgaz,155,135,3+1,2,3700000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,6,3,5 - 10,kombi dogalgaz,180,150,3+1,1,3700000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,4,4,5 - 10,kombi dogalgaz,210,185,4+1,2,3700000
+satilik,konut,daire,konya,karatay,fevzicakmak,sems,5,0,5 - 10,merkezi pay olcer,210,190,4+1,2,3700000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,2,0,yerden isitma,165,140,3+1,2,3745000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,3,0,yerden isitma,165,130,3+1,1,3750000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,4,1,0,kombi dogalgaz,145,130,3+1,1,3750000
+satilik,konut,daire,konya,meram,uluirmak,aziziye,6,3,0,yerden isitma,165,125,3+1,1,3750000
+satilik,konut,daire,konya,selcuklu,mehmet akif,aydinlik,3,2,0,kombi dogalgaz,165,130,3+1,2,3750000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,0,0,yerden isitma,160,130,3+1,2,3750000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,4,2,0,kombi dogalgaz,165,140,3+1,2,3750000
+satilik,konut,daire,konya,karatay,gaziosmanpasa,selimiye,6,2,0,yerden isitma,225,170,4+1,2,3750000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,7,7,16 - 20,kombi dogalgaz,180,150,4+1,2,3750000
+satilik,konut,daire,konya,meram,uzunharmanlar,tascami,10,2,5 - 10,merkezi pay olcer,210,165,3+1,1,3750000
+satilik,konut,daire,konya,selcuklu,aydinlikevler,aydinlik,3,3,1,kombi dogalgaz,240,185,4+1,2,3780000
+satilik,konut,daire,konya,selcuklu,seker,hocacihan,10,0,0,yerden isitma,165,150,3+1,1,3799999
+satilik,konut,daire,konya,selcuklu,mehmet akif,aydinlik,3,3,0,yerden isitma,160,130,3+1,1,3800000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,5,3,0,merkezi pay olcer,160,130,3+1,2,3800000
+satilik,konut,daire,konya,meram,yenisehir,tascami,6,4,0,merkezi pay olcer,165,140,3+1,2,3800000
+satilik,konut,daire,konya,selcuklu,mehmet akif,aydinlik,4,1,11 - 15,kombi dogalgaz,200,170,4+1,1,3800000
+satilik,konut,daire,konya,meram,meliksah,mimar-sinan,3,3,5 - 10,yerden isitma,175,130,3+1,2,3800000
+satilik,konut,daire,konya,meram,meliksah,mimar-sinan,3,3,5 - 10,yerden isitma,175,130,3+1,2,3800000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,3,2,0,kombi dogalgaz,165,140,3+1,1,3850000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,1,0,kombi dogalgaz,150,125,3+1,1,3850000
+satilik,konut,daire,konya,selcuklu,aksemsettin,hocacihan,5,5,0,yerden isitma,150,110,3+1,1,3850000
+satilik,konut,daire,konya,selcuklu,aksemsettin,hocacihan,5,3,0,kombi dogalgaz,165,140,3+1,1,3850000
+satilik,konut,daire,konya,karatay,cimenlik,selimiye,5,1,0,yerden isitma,170,145,3+1,1,3850000
+satilik,konut,daire,konya,selcuklu,kilincarslan,hocacihan,14,7,0,merkezi pay olcer,160,125,3+1,1,3850000
+satilik,konut,daire,konya,meram,alpaslan,tascami,5,2,0,kombi dogalgaz,220,195,4+1,2,3850000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,6,3,0,kombi dogalgaz,170,140,3+1,1,3900000
+satilik,konut,daire,konya,selcuklu,seker,hocacihan,9,7,0,merkezi pay olcer,135,110,3+1,1,3900000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,2,1,0,kombi dogalgaz,130,115,3+1,2,3900000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,2,0,yerden isitma,210,180,4+1,2,3900000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,7,4,11 - 15,kombi dogalgaz,215,190,3+1,1,3900000
+satilik,konut,daire,konya,selcuklu,isiklar,fatih,5,4,16 - 20,kombi dogalgaz,200,185,4+1,2,3900000
+satilik,konut,daire,konya,selcuklu,isiklar,fatih,4,4,21 +,kombi dogalgaz,220,180,5+1,2,3900000
+satilik,konut,daire,konya,selcuklu,aksemsettin,hocacihan,4,2,0,kombi dogalgaz,175,125,3+1,1,3950000
+satilik,konut,daire,konya,meram,uluirmak,aziziye,8,8,0,kombi dogalgaz,165,123,3+1,1,3950000
+satilik,konut,daire,konya,selcuklu,aksemsettin,hocacihan,2,2,0,yerden isitma,200,160,3+1,2,3950000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,5,2,0,yerden isitma,122,115,3+1,1,4000000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,6,3,0,kombi dogalgaz,145,123,3+1,1,4000000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,5,1,0,kombi dogalgaz,170,140,3+1,2,4000000
+satilik,konut,daire,konya,selcuklu,aksemsettin,hocacihan,5,0,0,yerden isitma,200,147,4+1,2,4000000
+satilik,konut,daire,konya,selcuklu,sakarya,aydinlik,3,3,16 - 20,kombi dogalgaz,200,145,4+1,1,4000000
+satilik,konut,daire,konya,karatay,celebi,mevlana,6,2,4,kombi dogalgaz,165,135,3+1,1,4000000
+satilik,konut,daire,konya,meram,kozagac,tascami,2,2,4,kombi dogalgaz,220,180,4+1,2,4000000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,4,2,5 - 10,kombi dogalgaz,165,140,3+1,1,4000000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,4,1,0,kombi dogalgaz,135,105,3+1,2,4050000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,5,3,3,yerden isitma,175,145,3+1,2,4050000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,9,3,5 - 10,merkezi pay olcer,175,135,3+1,1,4050000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,3,3,5 - 10,kombi dogalgaz,220,180,5+1,2,4050000
+satilik,konut,daire,konya,selcuklu,hacikaymak,hocacihan,13,5,5 - 10,merkezi pay olcer,170,145,3+1,2,4050000
+satilik,konut,daire,konya,karatay,akabe,selimiye,6,2,0,merkezi pay olcer,165,125,3+1,1,4100000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,3,2,0,kombi dogalgaz,165,140,3+1,2,4100000
+satilik,konut,daire,konya,meram,alpaslan,tascami,5,4,0,yerden isitma,220,195,4+1,2,4100000
+satilik,konut,daire,konya,karatay,sariyakup,selimiye,6,1,1,merkezi pay olcer,155,125,3+1,1,4100000
+satilik,konut,daire,konya,meram,alavardi,mimar-sinan,4,1,16 - 20,merkezi dogalgaz,160,135,3+1,2,4100000
+satilik,konut,daire,konya,selcuklu,musalla baglari,nalcaci,10,2,2,merkezi pay olcer,120,100,2+1,1,4100000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,3,0,yerden isitma,170,130,3+1,1,4150000
+satilik,konut,daire,konya,karatay,sariyakup,selimiye,5,4,0,merkezi pay olcer,220,170,3+1,2,4150000
+satilik,konut,daire,konya,selcuklu,hocacihan,hocacihan,5,2,0,yerden isitma,195,135,4+1,2,4150000
+satilik,konut,daire,konya,selcuklu,hacikaymak,hocacihan,12,4,5 - 10,yerden isitma,175,135,3+1,1,4150000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,5,3,0,merkezi pay olcer,170,143,3+1,1,4200000
+satilik,konut,daire,konya,selcuklu,aksemsettin,hocacihan,5,1,0,yerden isitma,175,145,3+1,1,4200000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,2,0,0,yerden isitma,160,150,4+1,2,4200000
+satilik,konut,daire,konya,meram,uluirmak,aziziye,8,5,0,kombi dogalgaz,165,124,3+1,2,4200000
+satilik,konut,daire,konya,meram,aydogdu,aziziye,10,3,0,merkezi pay olcer,165,125,3+1,2,4200000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,12,5,5 - 10,merkezi pay olcer,220,180,4+1,1,4200000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,2,0,yerden isitma,170,125,3+1,1,4250000
+satilik,konut,daire,konya,selcuklu,aksemsettin,hocacihan,5,2,0,yerden isitma,147,114,3+1,1,4250000
+satilik,konut,daire,konya,selcuklu,kilincarslan,hocacihan,12,3,11 - 15,merkezi pay olcer,165,130,3+1,1,4250000
+satilik,konut,daire,konya,selcuklu,kilincarslan,hocacihan,11,4,5 - 10,merkezi pay olcer,165,125,3+1,1,4250000
+satilik,konut,daire,konya,selcuklu,seker,hocacihan,12,7,5 - 10,kombi dogalgaz,230,180,3+1,2,4270000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,7,7,11 - 15,kombi dogalgaz,135,125,3+1,2,4300000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,15,10,2,merkezi pay olcer,149,117,3+1,2,4300000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,5,0,5 - 10,yerden isitma,200,150,3+1,2,4300000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,14,2,5 - 10,merkezi pay olcer,210,160,4+1,2,4300000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,4,4,0,kombi dogalgaz,170,140,3+1,1,4350000
+satilik,konut,daire,konya,selcuklu,kilincarslan,hocacihan,8,8,5 - 10,kombi dogalgaz,190,140,3+1,2,4350000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,10,2,5 - 10,merkezi pay olcer,200,185,4+1,2,4350000
+satilik,konut,daire,konya,selcuklu,seker,hocacihan,11,3,5 - 10,yerden isitma,170,130,3+1,2,4350000
+satilik,konut,daire,konya,meram,yenisehir,tascami,11,2,5 - 10,merkezi pay olcer,120,90,2+1,2,4350000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,2,0,yerden isitma,165,135,3+1,2,4400000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,3,2,0,yerden isitma,155,137,3+1,2,4400000
+satilik,konut,daire,konya,selcuklu,seker,hocacihan,12,12,4,yerden isitma,180,140,3+1,1,4400000
+satilik,konut,daire,konya,selcuklu,seker,hocacihan,12,12,5 - 10,merkezi dogalgaz,170,147,3+1,1,4400000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,6,6,5 - 10,yerden isitma,175,155,3+1,2,4400000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,3,0,yerden isitma,175,130,3+1,2,4450000
+satilik,konut,daire,konya,selcuklu,buhara,cumhuriyet,5,4,5 - 10,merkezi dogalgaz,200,175,4+1,2,4490000
+satilik,konut,daire,konya,karatay,dogus,selimiye,6,3,0,yerden isitma,165,135,4+1,2,4495000
+satilik,konut,daire,konya,selcuklu,seker,hocacihan,3,2,0,kombi dogalgaz,160,140,3+1,1,4500000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,4,2,0,yerden isitma,160,130,3+1,1,4500000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,4,2,0,yerden isitma,160,120,3+1,1,4500000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,5,3,0,kombi dogalgaz,170,140,3+1,2,4500000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,5,2,0,yerden isitma,175,125,3+1,2,4500000
+satilik,konut,daire,konya,meram,yenisehir,tascami,6,3,0,merkezi pay olcer,165,140,3+1,2,4500000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,6,2,0,merkezi pay olcer,160,130,3+1,2,4500000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,9,9,0,yerden isitma,190,170,4+1,2,4500000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,7,7,11 - 15,kombi dogalgaz,200,149,4+1,2,4500000
+satilik,konut,daire,konya,meram,havzan,meram,5,1,16 - 20,kombi dogalgaz,165,144,3+1,1,4500000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,7,6,16 - 20,kombi dogalgaz,190,150,4+1,1,4500000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,7,6,3,merkezi pay olcer,165,140,3+1,2,4500000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,2,0,yerden isitma,160,117,3+1,2,4600000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,4,2,0,yerden isitma,187,145,4+1,2,4600000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,4,2,0,yerden isitma,200,175,4+1,2,4600000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,4,2,0,kombi dogalgaz,170,140,3+1,1,4650000
+satilik,konut,daire,konya,karatay,celebi,mevlana,6,1,11 - 15,kombi dogalgaz,185,160,3+1,1,4650000
+satilik,konut,daire,konya,meram,alavardi,mimar-sinan,2,0,11 - 15,kombi dogalgaz,210,190,4+1,2,4650000
+satilik,konut,daire,konya,selcuklu,seker,hocacihan,11,10,4,merkezi pay olcer,185,155,3+1,2,4650000
+satilik,konut,daire,konya,selcuklu,selcuk,hocacihan,15,14,5 - 10,merkezi pay olcer,170,135,3+1,1,4650000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,5,5,5 - 10,kombi dogalgaz,210,180,5+1,2,4650000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,5,3,5 - 10,merkezi pay olcer,215,175,4+1,2,4670000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,6,6,4,merkezi pay olcer,220,190,4+1,2,4700000
+satilik,konut,daire,konya,selcuklu,esenler,hocacihan,7,7,0,merkezi pay olcer,165,135,3+1,1,4750000
+satilik,konut,daire,konya,selcuklu,aksemsettin,hocacihan,7,7,0,yerden isitma,150,137,3+1,1,4750000
+satilik,konut,daire,konya,selcuklu,kilincarslan,hocacihan,15,2,3,kombi dogalgaz,212,180,4+1,2,4750000
+satilik,konut,daire,konya,selcuklu,hocacihan,hocacihan,10,2,5 - 10,merkezi dogalgaz,200,165,4+1,2,4750000
+satilik,konut,daire,konya,selcuklu,hocacihan,hocacihan,10,2,5 - 10,merkezi dogalgaz,200,165,4+1,2,4750000
+satilik,konut,daire,konya,selcuklu,hocacihan,hocacihan,9,5,0,merkezi pay olcer,198,140,4+1,1,4850000
+satilik,konut,daire,konya,selcuklu,selcuk,hocacihan,13,13,5 - 10,yerden isitma,209,178,4+1,2,4850000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,13,9,5 - 10,merkezi pay olcer,200,190,4+1,2,4900000
+satilik,konut,daire,konya,selcuklu,mehmet akif,aydinlik,3,3,5 - 10,kombi dogalgaz,260,200,6+1,2,4950000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,7,7,0,kombi dogalgaz,190,150,4+1,2,4975000
+satilik,konut,daire,konya,meram,alavardi,mimar-sinan,7,2,0,yerden isitma,185,140,3+1,1,5000000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,10,7,11 - 15,kombi dogalgaz,150,125,3+1,1,5000000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,3,2,21 +,merkezi dogalgaz,232,155,4+1,2,5000000
+satilik,konut,daire,konya,meram,alavardi,mimar-sinan,9,6,5 - 10,merkezi pay olcer,165,125,3+1,1,5000000
+satilik,konut,daire,konya,selcuklu,buhara,cumhuriyet,5,5,5 - 10,yerden isitma,205,175,4+1,2,5000000
+satilik,konut,daire,konya,selcuklu,aksemsettin,hocacihan,5,3,5 - 10,merkezi pay olcer,210,170,4+1,2,5000000
+satilik,konut,daire,konya,selcuklu,hanaybasi,hocacihan,5,2,5 - 10,kombi dogalgaz,210,180,4+1,2,5100000
+satilik,konut,daire,konya,meram,alavardi,mimar-sinan,7,0,4,yerden isitma,171,125,4+1,2,5150000
+satilik,konut,daire,konya,selcuklu,hocacihan,hocacihan,10,5,0,merkezi pay olcer,165,125,3+1,2,5250000
+satilik,konut,daire,konya,selcuklu,seker,hocacihan,10,4,4,merkezi pay olcer,225,185,4+1,1,5250000
+satilik,konut,daire,konya,selcuklu,seker,hocacihan,17,10,5 - 10,yerden isitma,190,175,3+1,1,5258000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,6,4,5 - 10,merkezi dogalgaz,228,200,4+1,2,5300000
+satilik,konut,daire,konya,selcuklu,hacikaymak,hocacihan,7,1,5 - 10,merkezi pay olcer,220,205,4+1,2,5325000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,7,7,5 - 10,merkezi dogalgaz,200,150,3+1,2,5350000
+satilik,konut,daire,konya,selcuklu,seker,hocacihan,9,7,0,merkezi pay olcer,175,145,4+1,2,5450000
+satilik,konut,daire,konya,karatay,gaziosmanpasa,selimiye,5,3,1,yerden isitma,220,175,4+1,2,5500000
+satilik,konut,daire,konya,karatay,akabe,selimiye,5,4,4,yerden isitma,210,150,4+1,2,5500000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,5,3,5 - 10,kombi dogalgaz,230,195,4+1,2,5500000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,6,4,5 - 10,merkezi pay olcer,220,200,4+1,2,5500000
+satilik,konut,daire,konya,selcuklu,feritpasa,nalcaci,7,3,11 - 15,merkezi pay olcer,350,280,4+1,2,5550000
+satilik,konut,daire,konya,selcuklu,kilincarslan,hocacihan,11,4,2,yerden isitma,225,172,4+1,2,5550000
+satilik,konut,daire,konya,meram,yenisehir,tascami,5,1,0,yerden isitma,210,167,4+1,2,5650000
+satilik,konut,daire,konya,meram,kovanagzi,tascami,6,2,0,merkezi pay olcer,220,170,4+1,2,5650000
+satilik,konut,daire,konya,selcuklu,kosova,bosna,6,4,0,yerden isitma,192,160,4+1,2,5750000
+satilik,konut,daire,konya,selcuklu,sancak,bosna,5,5,5 - 10,kombi dogalgaz,280,200,5+1,2,5750000
+satilik,konut,daire,konya,karatay,saracoglu,selimiye,2,0,0,kombi dogalgaz,110,100,2+1,1,5800000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,5,2,11 - 15,kombi dogalgaz,205,185,4+1,2,5800000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,10,5,4,merkezi pay olcer,210,190,4+1,2,5850000
+satilik,konut,daire,konya,selcuklu,hocacihan,hocacihan,7,1,0,merkezi dogalgaz,165,145,3+1,2,5900000
+satilik,konut,daire,konya,selcuklu,feritpasa,nalcaci,7,3,11 - 15,merkezi pay olcer,250,220,4+1,2,5975000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,12,2,5 - 10,yerden isitma,258,194,4+1,2,5980000
+satilik,konut,daire,konya,selcuklu,hacikaymak,hocacihan,11,10,1,merkezi pay olcer,350,285,6+1,2,5998000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,4,2,0,yerden isitma,200,160,4+1,2,6000000
+satilik,konut,daire,konya,meram,aydogdu,aziziye,14,9,0,merkezi pay olcer,210,190,4+1,2,6050000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,6,3,0,merkezi pay olcer,182,165,4+1,2,6200000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,5,2,5 - 10,merkezi pay olcer,220,180,4+1,1,6240000
+satilik,konut,daire,konya,selcuklu,selcuk,hocacihan,14,3,0,yerden isitma,294,236,5+1,2,6300000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,4,4,0,yerden isitma,220,160,4+1,2,6400000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,11,5,5 - 10,yerden isitma,210,160,4+1,2,6400000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,4,4,0,merkezi pay olcer,230,180,4+1,2,6450000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,4,4,0,yerden isitma,220,168,4+1,2,6500000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,11,5,0,yerden isitma,225,175,4+1,2,6585000
+satilik,konut,daire,konya,selcuklu,beyhekim,bosna,5,4,5 - 10,merkezi pay olcer,220,180,4+1,2,6600000
+satilik,konut,daire,konya,selcuklu,selcuk,hocacihan,15,3,0,merkezi pay olcer,220,170,4+1,2,6650000
+satilik,konut,daire,konya,selcuklu,isiklar,fatih,9,4,0,merkezi pay olcer,257,210,4+1,2,6750000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,10,5,0,merkezi pay olcer,205,185,4+1,2,6750000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,10,3,3,merkezi pay olcer,170,130,3+1,1,6750000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,10,3,3,merkezi pay olcer,170,130,3+1,1,6750000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,4,3,4,kombi dogalgaz,175,155,3+1,2,6750000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,4,4,5 - 10,kombi dogalgaz,175,155,4+1,1,6750000
+satilik,konut,daire,konya,meram,alavardi,mimar-sinan,2,1,5 - 10,kombi dogalgaz,250,220,5+1,2,6800000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,11,5,0,merkezi pay olcer,216,180,4+1,2,6850000
+satilik,konut,daire,konya,selcuklu,yazir,bosna,11,5,3,yerden isitma,217,158,4+1,2,6850000
+satilik,konut,daire,konya,meram,aydogdu,aziziye,12,11,5 - 10,yerden isitma,220,200,4+1,2,6900000
+satilik,konut,daire,konya,meram,uzunharmanlar,tascami,13,10,0,yerden isitma,155,120,3+1,2,6950000
+satilik,konut,daire,konya,selcuklu,parsana,bosna,5,3,0,kombi dogalgaz,230,170,4+1,2,7000000
+satilik,konut,daire,konya,selcuklu,kilincarslan,hocacihan,13,12,3,yerden isitma,220,195,4+1,2,7000000
+satilik,konut,daire,konya,meram,hadimi,tascami,3,2,5 - 10,soba,155,145,3+1,2,7200000
+satilik,konut,daire,konya,meram,yenisehir,tascami,14,7,3,merkezi pay olcer,205,165,4+1,2,7650000
+satilik,konut,daire,konya,meram,uzunharmanlar,tascami,13,5,0,merkezi pay olcer,220,200,4+1,2,7900000
+satilik,konut,daire,konya,meram,alavardi,mimar-sinan,7,7,4,yerden isitma,220,180,4+1,2,7990000
+satilik,konut,daire,konya,selcuklu,erenkoy,sille,1,0,5 - 10,yerden isitma,160,135,3+1,2,8000000
+satilik,konut,daire,konya,selcuklu,kilincarslan,hocacihan,18,15,5 - 10,yerden isitma,170,140,3+1,2,8300000
+satilik,konut,daire,konya,selcuklu,selcuk,hocacihan,15,12,1,merkezi pay olcer,250,210,5+1,2,8500000
+satilik,konut,daire,konya,selcuklu,selcuk,hocacihan,13,13,4,merkezi pay olcer,260,220,5+1,2,8500000
+satilik,konut,daire,konya,meram,yenisehir,tascami,7,4,0,yerden isitma,250,155,4+1,2,8900000
+satilik,konut,daire,konya,meram,yenisehir,tascami,8,6,0,yerden isitma,225,180,4+1,2,9000000
+satilik,konut,daire,konya,selcuklu,selahaddin eyyubi,bosna,3,2,0,yerden isitma,125,105,3+1,1,9400000
